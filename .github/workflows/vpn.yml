@@ -9,7 +9,9 @@ name: Xray Cloudflare Tunnel
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */5 * * *'
+    # Fallback only. The self-loop normally starts the next run.
+    # Keep this outside the 5.5h keep-alive window to avoid queued duplicates.
+    - cron: '0 */6 * * *'
 
 permissions:
   contents: write    # push config to gh-pages branch
@@ -107,19 +109,34 @@ jobs:
           PATH_ID: ${{ steps.credentials.outputs.path }}
         run: |
           rm -f cloudflared.log
-          nohup cloudflared tunnel --url http://127.0.0.1:8080 > cloudflared.log 2>&1 &
-          echo $! > cloudflared.pid
+          nohup cloudflared tunnel --no-autoupdate --url http://127.0.0.1:8080 > cloudflared.log 2>&1 &
+          CLOUDFLARED_PID=$!
+          echo "$CLOUDFLARED_PID" > cloudflared.pid
 
-          echo "Waiting for Cloudflare tunnel URL..."
-          for i in {1..30}; do
-            if grep -q "trycloudflare.com" cloudflared.log; then break; fi
+          echo "Waiting for Cloudflare Quick Tunnel URL..."
+          TUNNEL_URL=""
+          for i in {1..60}; do
+            # The URL is printed only after the Quick Tunnel is provisioned.
+            TUNNEL_URL="$(grep -oE 'https://[-a-zA-Z0-9]+\.trycloudflare\.com' cloudflared.log | head -n1 || true)"
+            if [ -n "$TUNNEL_URL" ]; then
+              break
+            fi
+
+            if ! kill -0 "$CLOUDFLARED_PID" 2>/dev/null; then
+              echo "::error::cloudflared exited before a tunnel URL was issued"
+              cat cloudflared.log
+              exit 1
+            fi
+
+            echo "Waiting... ($i/60)"
             sleep 2
           done
 
-          TUNNEL_URL="$(grep -oE 'https://[-a-zA-Z0-9]+\.trycloudflare\.com' cloudflared.log | head -n1)"
           if [ -z "$TUNNEL_URL" ]; then
-            echo "::error::Cloudflare tunnel URL not found"
+            echo "::error::Cloudflare Quick Tunnel URL was not received within 120 seconds"
+            echo "----- cloudflared.log -----"
             cat cloudflared.log
+            echo "---------------------------"
             exit 1
           fi
 
