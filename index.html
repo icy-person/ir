@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Xray Tunnel Config</title>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Segoe UI',Tahoma,sans-serif;background:#0d1117;color:#c9d1d9;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}
+    .container{max-width:760px;width:100%;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:32px}
+    h1{color:#58a6ff;margin-bottom:24px;font-size:22px}
+    .field{margin-bottom:18px}
+    .label{color:#8b949e;font-size:11px;text-transform:uppercase;margin-bottom:6px;letter-spacing:.5px}
+    .value{background:#0d1117;border:1px solid #30363d;padding:12px 14px;border-radius:6px;font-family:'Courier New',monospace;font-size:12px;word-break:break-all;position:relative;padding-left:70px}
+    .copy-btn{position:absolute;top:8px;left:8px;background:#21262d;color:#c9d1d9;border:1px solid #30363d;border-radius:4px;padding:4px 10px;cursor:pointer;font-size:11px}
+    .copy-btn:hover{background:#30363d}
+    .meta{color:#8b949e;font-size:12px;margin-top:18px;text-align:center;line-height:1.8}
+    .meta a{color:#58a6ff;text-decoration:none}
+    .meta a:hover{text-decoration:underline}
+    .live{display:inline-block;width:8px;height:8px;background:#3fb950;border-radius:50%;margin-left:6px;animation:pulse 2s infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>⚙️ Xray Tunnel Config <span class="live"></span></h1>
+
+    <div class="field">
+      <div class="label">VLESS URI (برای Import در کلاینت)</div>
+      <div class="value">
+        <button class="copy-btn" onclick="copyText('vless-text')">کپی</button>
+        <span id="vless-text">vless://ccb037a5-edde-46fc-9be5-4e1c8f8f76a7@they-mode-dress-lap.trycloudflare.com:443?encryption=none__VLESS_URI__security=tls__VLESS_URI__type=ws__VLESS_URI__host=they-mode-dress-lap.trycloudflare.com__VLESS_URI__path=/cef10d089b1c1fe1e93e09ff4b1e4874__VLESS_URI__sni=they-mode-dress-lap.trycloudflare.com#GitHub-Xray</span>
+      </div>
+    </div>
+
+    <div class="field">
+      <div class="label">Tunnel URL</div>
+      <div class="value">https://they-mode-dress-lap.trycloudflare.com</div>
+    </div>
+
+    <div class="field">
+      <div class="label">UUID</div>
+      <div class="value">ccb037a5-edde-46fc-9be5-4e1c8f8f76a7</div>
+    </div>
+
+    <div class="field">
+      <div class="label">WebSocket Path</div>
+      <div class="value">/cef10d089b1c1fe1e93e09ff4b1e4874</div>
+    </div>
+
+    <div class="field">
+      <div class="label">Host (SNI)</div>
+      <div class="value">they-mode-dress-lap.trycloudflare.com</div>
+    </div>
+
+    <div class="meta">
+      آخرین بروزرسانی: <strong>2026-09-19 07:12:19 UTC</strong><br>
+      <a href="vless.txt" target="_blank">📥 دانلود فایل متنی vless.txt</a> | 
+      <a href="config.json" target="_blank">🔧 فایل JSON</a><br>
+      این صفحه هر ~6 ساعت به‌صورت خودکار بروز می‌شود.
+    </div>
+  </div>
+
+  <script>
+    function copyText(id){
+      const text=document.getElementById(id).innerText;
+      navigator.clipboard.writeText(text).then(()=>alert('کپی شد ✓'));
+    }
+  </script>
+</body>
+</html>
