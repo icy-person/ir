@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://266e6faf-be10-4f9b-8d03-93304219ebd5@insured-needed-surgeon-kingdom.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=insured-needed-surgeon-kingdom.trycloudflare.com&path=/b4297814a24ede0b7cec3cc4d749a756&sni=insured-needed-surgeon-kingdom.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://insured-needed-surgeon-kingdom.trycloudflare.com",
-  "host": "insured-needed-surgeon-kingdom.trycloudflare.com",
-  "uuid": "266e6faf-be10-4f9b-8d03-93304219ebd5",
-  "path": "/b4297814a24ede0b7cec3cc4d749a756",
+  "vless_uri": "vless://c6478d22-9cc9-4eb9-a93d-850d804a383a@gain-flash-awesome-badly.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=gain-flash-awesome-badly.trycloudflare.com&path=/8f86516fdc6a6dbb49d457738b2de220&sni=gain-flash-awesome-badly.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://gain-flash-awesome-badly.trycloudflare.com",
+  "host": "gain-flash-awesome-badly.trycloudflare.com",
+  "uuid": "c6478d22-9cc9-4eb9-a93d-850d804a383a",
+  "path": "/8f86516fdc6a6dbb49d457738b2de220",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "insured-needed-surgeon-kingdom.trycloudflare.com",
+  "sni": "gain-flash-awesome-badly.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-19T12:25:23Z"
+  "updated_at": "2026-09-19T17:56:06Z"
 }
