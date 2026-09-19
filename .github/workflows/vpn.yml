@@ -1,0 +1,339 @@
+name: Xray Cloudflare Tunnel
+
+# ============================================================
+#  TriGGERS
+#  - workflow_dispatch : manual run from Actions tab
+#  - schedule          : fallback cron (every 5h) in case
+#                        self-trigger fails (e.g. no PAT_TOKEN)
+# ============================================================
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */5 * * *'
+
+permissions:
+  contents: write    # push config to gh-pages branch
+  pages: write       # (optional) for pages deploy
+  id-token: write    # (optional) for pages deploy
+
+#  Only ONE tunnel run at a time. If a new run is triggered
+#  while the previous is still alive, GitHub queues it.
+concurrency:
+  group: xray-tunnel
+  cancel-in-progress: false
+
+jobs:
+  xray:
+    runs-on: ubuntu-latest
+    # GitHub hard limit is 6h (360min). Leave margin for cleanup.
+    timeout-minutes: 350
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl unzip jq openssl
+
+      - name: Install Xray
+        run: |
+          bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install
+          xray version
+
+      - name: Generate Xray credentials
+        id: credentials
+        run: |
+          UUID="$(xray uuid)"
+          PATH_ID="/$(openssl rand -hex 16)"
+          echo "uuid=$UUID"     >> "$GITHUB_OUTPUT"
+          echo "path=$PATH_ID"  >> "$GITHUB_OUTPUT"
+
+      - name: Configure Xray
+        env:
+          UUID: ${{ steps.credentials.outputs.uuid }}
+          PATH_ID: ${{ steps.credentials.outputs.path }}
+        run: |
+          sudo mkdir -p /usr/local/etc/xray
+          sudo tee /usr/local/etc/xray/config.json >/dev/null <<EOF
+          {
+            "log": { "loglevel": "warning" },
+            "inbounds": [
+              {
+                "listen": "127.0.0.1",
+                "port": 8080,
+                "protocol": "vless",
+                "settings": {
+                  "clients": [ { "id": "$UUID" } ],
+                  "decryption": "none"
+                },
+                "streamSettings": {
+                  "network": "ws",
+                  "wsSettings": { "path": "$PATH_ID" }
+                }
+              }
+            ],
+            "outbounds": [ { "protocol": "freedom" } ]
+          }
+          EOF
+          sudo xray run -test -config /usr/local/etc/xray/config.json
+
+      - name: Start Xray
+        run: |
+          sudo systemctl enable  xray
+          sudo systemctl restart xray
+          sleep 2
+          sudo systemctl --no-pager --full status xray | head -n 20 || true
+
+      - name: Install Cloudflared
+        run: |
+          curl -L --output cloudflared.deb \
+            https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
+          sudo dpkg -i cloudflared.deb
+          cloudflared --version
+
+      - name: Start Cloudflare Quick Tunnel
+        id: tunnel
+        env:
+          UUID: ${{ steps.credentials.outputs.uuid }}
+          PATH_ID: ${{ steps.credentials.outputs.path }}
+        run: |
+          rm -f cloudflared.log
+          nohup cloudflared tunnel --url http://127.0.0.1:8080 > cloudflared.log 2>&1 &
+          echo $! > cloudflared.pid
+
+          echo "Waiting for Cloudflare tunnel URL..."
+          for i in {1..30}; do
+            if grep -q "trycloudflare.com" cloudflared.log; then break; fi
+            sleep 2
+          done
+
+          TUNNEL_URL="$(grep -oE 'https://[-a-zA-Z0-9]+\.trycloudflare\.com' cloudflared.log | head -n1)"
+          if [ -z "$TUNNEL_URL" ]; then
+            echo "::error::Cloudflare tunnel URL not found"
+            cat cloudflared.log
+            exit 1
+          fi
+
+          HOST="${TUNNEL_URL#https://}"
+          VLESS_URI="vless://${UUID}@${HOST}:443?encryption=none&security=tls&type=ws&host=${HOST}&path=${PATH_ID}&sni=${HOST}#GitHub-Xray"
+
+          echo "tunnel_url=$TUNNEL_URL" >> "$GITHUB_OUTPUT"
+          echo "host=$HOST"            >> "$GITHUB_OUTPUT"
+          echo "vless_uri=$VLESS_URI"  >> "$GITHUB_OUTPUT"
+
+          echo "::notice::Tunnel URL : $TUNNEL_URL"
+          echo "::notice::VLESS URI  : $VLESS_URI"
+
+      # ============================================================
+      #  PUBLISH CONFIG TO GitHub Pages (gh-pages branch)
+      #  Permanent URLs:
+      #    https://<owner>.github.io/<repo>/
+      #    https://<owner>.github.io/<repo>/vless.txt
+      #    https://<owner>.github.io/<repo>/config.json
+      # ============================================================
+      - name: Publish config to GitHub Pages
+        env:
+          VLESS_URI: ${{ steps.tunnel.outputs.vless_uri }}
+          TUNNEL_URL: ${{ steps.tunnel.outputs.tunnel_url }}
+          UUID: ${{ steps.credentials.outputs.uuid }}
+          PATH_ID: ${{ steps.credentials.outputs.path }}
+          HOST: ${{ steps.tunnel.outputs.host }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          REPO_URL="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git remote set-url origin "$REPO_URL"
+
+          # Switch to gh-pages (create orphan branch if not exists)
+          if git ls-remote --exit-code origin gh-pages >/dev/null 2>&1; then
+            git fetch origin gh-pages
+            git checkout -B gh-pages origin/gh-pages
+          else
+            git checkout --orphan gh-pages
+            git rm -rf . 2>/dev/null || true
+          fi
+
+          # ---- index.html ----
+          cat > index.html <<'HTML'
+          <!DOCTYPE html>
+          <html lang="fa" dir="rtl">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Xray Tunnel Config</title>
+            <style>
+              *{box-sizing:border-box;margin:0;padding:0}
+              body{font-family:'Segoe UI',Tahoma,sans-serif;background:#0d1117;color:#c9d1d9;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}
+              .container{max-width:760px;width:100%;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:32px}
+              h1{color:#58a6ff;margin-bottom:24px;font-size:22px}
+              .field{margin-bottom:18px}
+              .label{color:#8b949e;font-size:11px;text-transform:uppercase;margin-bottom:6px;letter-spacing:.5px}
+              .value{background:#0d1117;border:1px solid #30363d;padding:12px 14px;border-radius:6px;font-family:'Courier New',monospace;font-size:12px;word-break:break-all;position:relative;padding-left:70px}
+              .copy-btn{position:absolute;top:8px;left:8px;background:#21262d;color:#c9d1d9;border:1px solid #30363d;border-radius:4px;padding:4px 10px;cursor:pointer;font-size:11px}
+              .copy-btn:hover{background:#30363d}
+              .meta{color:#8b949e;font-size:12px;margin-top:18px;text-align:center;line-height:1.8}
+              .meta a{color:#58a6ff;text-decoration:none}
+              .meta a:hover{text-decoration:underline}
+              .live{display:inline-block;width:8px;height:8px;background:#3fb950;border-radius:50%;margin-left:6px;animation:pulse 2s infinite}
+              @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+            </style>
+          </head>
+          <body>
+            <div class="container">
+              <h1>⚙️ Xray Tunnel Config <span class="live"></span></h1>
+
+              <div class="field">
+                <div class="label">VLESS URI (برای Import در کلاینت)</div>
+                <div class="value">
+                  <button class="copy-btn" onclick="copyText('vless-text')">کپی</button>
+                  <span id="vless-text">__VLESS_URI__</span>
+                </div>
+              </div>
+
+              <div class="field">
+                <div class="label">Tunnel URL</div>
+                <div class="value">__TUNNEL_URL__</div>
+              </div>
+
+              <div class="field">
+                <div class="label">UUID</div>
+                <div class="value">__UUID__</div>
+              </div>
+
+              <div class="field">
+                <div class="label">WebSocket Path</div>
+                <div class="value">__PATH_ID__</div>
+              </div>
+
+              <div class="field">
+                <div class="label">Host (SNI)</div>
+                <div class="value">__HOST__</div>
+              </div>
+
+              <div class="meta">
+                آخرین بروزرسانی: <strong>__TIMESTAMP__</strong><br>
+                <a href="vless.txt" target="_blank">📥 دانلود فایل متنی vless.txt</a> | 
+                <a href="config.json" target="_blank">🔧 فایل JSON</a><br>
+                این صفحه هر ~6 ساعت به‌صورت خودکار بروز می‌شود.
+              </div>
+            </div>
+
+            <script>
+              function copyText(id){
+                const text=document.getElementById(id).innerText;
+                navigator.clipboard.writeText(text).then(()=>alert('کپی شد ✓'));
+              }
+            </script>
+          </body>
+          </html>
+          HTML
+
+          # Replace placeholders (use | as sed separator, none of the values contain |)
+          sed -i \
+            -e "s|__VLESS_URI__|$VLESS_URI|g" \
+            -e "s|__TUNNEL_URL__|$TUNNEL_URL|g" \
+            -e "s|__UUID__|$UUID|g" \
+            -e "s|__PATH_ID__|$PATH_ID|g" \
+            -e "s|__HOST__|$HOST|g" \
+            -e "s|__TIMESTAMP__|$(date -u +'%Y-%m-%d %H:%M:%S UTC')|g" \
+            index.html
+
+          # ---- vless.txt (raw URI, easy import) ----
+          printf '%s\n' "$VLESS_URI" > vless.txt
+
+          # ---- config.json (machine-readable) ----
+          cat > config.json <<EOF
+          {
+            "vless_uri": "$VLESS_URI",
+            "tunnel_url": "$TUNNEL_URL",
+            "host": "$HOST",
+            "uuid": "$UUID",
+            "path": "$PATH_ID",
+            "port": 443,
+            "network": "ws",
+            "security": "tls",
+            "encryption": "none",
+            "sni": "$HOST",
+            "alias": "GitHub-Xray",
+            "updated_at": "$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          }
+          EOF
+
+          # ---- README.md ----
+          OWNER_LC="$(echo "$GITHUB_REPOSITORY" | cut -d/ -f1 | tr '[:upper:]' '[:lower:]')"
+          REPO_NAME="$(echo "$GITHUB_REPOSITORY" | cut -d/ -f2)"
+          BASE_URL="https://${OWNER_LC}.github.io/${REPO_NAME}"
+          cat > README.md <<EOF
+          # Xray Tunnel Config
+
+          Live config generated by GitHub Actions + Cloudflare Quick Tunnel.
+
+          ## Permanent URLs
+          - HTML page : ${BASE_URL}/
+          - Raw URI  : ${BASE_URL}/vless.txt
+          - JSON     : ${BASE_URL}/config.json
+
+          Last updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
+          EOF
+
+          # Commit & force-push
+          git add index.html vless.txt config.json README.md
+          git commit -m "Update Xray config - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" \
+            || git commit --allow-empty -m "Update Xray config - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push origin gh-pages --force
+
+          echo "::notice::GitHub Pages URL: ${BASE_URL}/"
+          echo "::notice::Raw VLESS file  : ${BASE_URL}/vless.txt"
+
+      # ============================================================
+      #  KEEP ALIVE until ~5.5h (leaves margin before 6h hard limit)
+      # ============================================================
+      - name: Keep runner alive
+        run: |
+          END=$((SECONDS + 19800))   # ~5.5h
+          while [ $SECONDS -lt $END ]; do
+            echo "===== STATUS ====="
+            date -u
+            systemctl is-active xray || echo "xray: not active"
+            pgrep -a cloudflared    || echo "cloudflared: not running"
+            echo "=================="
+            sleep 60
+          done
+          echo "Job time budget exhausted. Triggering next run."
+
+      # ============================================================
+      #  SELF-LOOP : trigger the SAME workflow again
+      #  Requires PAT_TOKEN secret (with `workflow` + `repo` scope).
+      #  If PAT_TOKEN is not set, falls back to cron schedule only.
+      # ============================================================
+      - name: Trigger next run (self-loop)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::PAT_TOKEN secret is not set. Self-trigger skipped."
+            echo "::warning::Will rely on cron schedule (every 5h) only."
+            exit 0
+          fi
+          sleep 5   # tiny delay to avoid race with current run finalizing
+          gh workflow run "$GITHUB_WORKFLOW" \
+            --repo "$GITHUB_REPOSITORY" \
+            --ref  "${GITHUB_REF_NAME}" \
+            && echo "Next run triggered." \
+            || echo "::warning::Self-trigger failed."
+
+      - name: Cleanup
+        if: always()
+        run: |
+          pgrep cloudflared | xargs -r kill -TERM 2>/dev/null || true
+          sudo systemctl stop xray 2>/dev/null || true
