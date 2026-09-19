@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://c6478d22-9cc9-4eb9-a93d-850d804a383a@gain-flash-awesome-badly.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=gain-flash-awesome-badly.trycloudflare.com&path=/8f86516fdc6a6dbb49d457738b2de220&sni=gain-flash-awesome-badly.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://gain-flash-awesome-badly.trycloudflare.com",
-  "host": "gain-flash-awesome-badly.trycloudflare.com",
-  "uuid": "c6478d22-9cc9-4eb9-a93d-850d804a383a",
-  "path": "/8f86516fdc6a6dbb49d457738b2de220",
+  "vless_uri": "vless://5daed7fd-bbb1-4185-85b5-6e189d4035e1@thumbzilla-smoke-regularly-experience.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=thumbzilla-smoke-regularly-experience.trycloudflare.com&path=/77907005a5a0784deb97b9dedb600c2c&sni=thumbzilla-smoke-regularly-experience.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://thumbzilla-smoke-regularly-experience.trycloudflare.com",
+  "host": "thumbzilla-smoke-regularly-experience.trycloudflare.com",
+  "uuid": "5daed7fd-bbb1-4185-85b5-6e189d4035e1",
+  "path": "/77907005a5a0784deb97b9dedb600c2c",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "gain-flash-awesome-badly.trycloudflare.com",
+  "sni": "thumbzilla-smoke-regularly-experience.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-19T17:56:06Z"
+  "updated_at": "2026-09-19T23:26:47Z"
 }
