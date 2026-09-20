@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://5daed7fd-bbb1-4185-85b5-6e189d4035e1@thumbzilla-smoke-regularly-experience.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=thumbzilla-smoke-regularly-experience.trycloudflare.com&path=/77907005a5a0784deb97b9dedb600c2c&sni=thumbzilla-smoke-regularly-experience.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://thumbzilla-smoke-regularly-experience.trycloudflare.com",
-  "host": "thumbzilla-smoke-regularly-experience.trycloudflare.com",
-  "uuid": "5daed7fd-bbb1-4185-85b5-6e189d4035e1",
-  "path": "/77907005a5a0784deb97b9dedb600c2c",
+  "vless_uri": "vless://376b15e4-7cb5-4bbd-a759-c94e4847d95f@cooperation-rio-sara-graduation.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=cooperation-rio-sara-graduation.trycloudflare.com&path=/12539841ce35c9bf4eae70871566d0bc&sni=cooperation-rio-sara-graduation.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://cooperation-rio-sara-graduation.trycloudflare.com",
+  "host": "cooperation-rio-sara-graduation.trycloudflare.com",
+  "uuid": "376b15e4-7cb5-4bbd-a759-c94e4847d95f",
+  "path": "/12539841ce35c9bf4eae70871566d0bc",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "thumbzilla-smoke-regularly-experience.trycloudflare.com",
+  "sni": "cooperation-rio-sara-graduation.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-19T23:26:47Z"
+  "updated_at": "2026-09-20T04:57:28Z"
 }
