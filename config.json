@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://376b15e4-7cb5-4bbd-a759-c94e4847d95f@cooperation-rio-sara-graduation.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=cooperation-rio-sara-graduation.trycloudflare.com&path=/12539841ce35c9bf4eae70871566d0bc&sni=cooperation-rio-sara-graduation.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://cooperation-rio-sara-graduation.trycloudflare.com",
-  "host": "cooperation-rio-sara-graduation.trycloudflare.com",
-  "uuid": "376b15e4-7cb5-4bbd-a759-c94e4847d95f",
-  "path": "/12539841ce35c9bf4eae70871566d0bc",
+  "vless_uri": "vless://5959b619-d7bd-48a6-8dc6-97812afa3b6a@spice-music-photography-dose.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=spice-music-photography-dose.trycloudflare.com&path=/6dfee7c33c40688faae71015b00857df&sni=spice-music-photography-dose.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://spice-music-photography-dose.trycloudflare.com",
+  "host": "spice-music-photography-dose.trycloudflare.com",
+  "uuid": "5959b619-d7bd-48a6-8dc6-97812afa3b6a",
+  "path": "/6dfee7c33c40688faae71015b00857df",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "cooperation-rio-sara-graduation.trycloudflare.com",
+  "sni": "spice-music-photography-dose.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-20T04:57:28Z"
+  "updated_at": "2026-09-20T10:28:16Z"
 }
