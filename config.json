@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://04f329b8-93af-4c45-9deb-14fc248ed6f4@idea-hundreds-making-node.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=idea-hundreds-making-node.trycloudflare.com&path=/7de3b9cd7ed88f0384e1813c990caf55&sni=idea-hundreds-making-node.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://idea-hundreds-making-node.trycloudflare.com",
-  "host": "idea-hundreds-making-node.trycloudflare.com",
-  "uuid": "04f329b8-93af-4c45-9deb-14fc248ed6f4",
-  "path": "/7de3b9cd7ed88f0384e1813c990caf55",
+  "vless_uri": "vless://efb377de-8c58-43af-b748-4391a243c1f2@roots-franchise-june-abroad.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=roots-franchise-june-abroad.trycloudflare.com&path=/d63b95fa31c396b32f39638471e3296b&sni=roots-franchise-june-abroad.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://roots-franchise-june-abroad.trycloudflare.com",
+  "host": "roots-franchise-june-abroad.trycloudflare.com",
+  "uuid": "efb377de-8c58-43af-b748-4391a243c1f2",
+  "path": "/d63b95fa31c396b32f39638471e3296b",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "idea-hundreds-making-node.trycloudflare.com",
+  "sni": "roots-franchise-june-abroad.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-21T09:09:37Z"
+  "updated_at": "2026-09-21T14:40:25Z"
 }
