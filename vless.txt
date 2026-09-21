@@ -1,1 +1,1 @@
-vless://3f66d9dd-621f-4b80-bdc2-af0b58a9d48a@tubes-triple-monitored-settled.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tubes-triple-monitored-settled.trycloudflare.com&path=/e91b8351915c3e2a7e0cf2ce1bd9de36&sni=tubes-triple-monitored-settled.trycloudflare.com#GitHub-Xray
+vless://7a154eb3-00ab-4b49-a5a9-0d2dab3ac374@tenant-african-dose-benjamin.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tenant-african-dose-benjamin.trycloudflare.com&path=/805d12c4e41c2509dae3d1d74e974f32&sni=tenant-african-dose-benjamin.trycloudflare.com#GitHub-Xray
