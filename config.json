@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://bd0b68e2-1fcd-4f6d-9810-434fb5d029d6@ten-ips-administration-org.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=ten-ips-administration-org.trycloudflare.com&path=/773a3b8494f724a662b44bd0562b4005&sni=ten-ips-administration-org.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://ten-ips-administration-org.trycloudflare.com",
-  "host": "ten-ips-administration-org.trycloudflare.com",
-  "uuid": "bd0b68e2-1fcd-4f6d-9810-434fb5d029d6",
-  "path": "/773a3b8494f724a662b44bd0562b4005",
+  "vless_uri": "vless://3f66d9dd-621f-4b80-bdc2-af0b58a9d48a@tubes-triple-monitored-settled.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tubes-triple-monitored-settled.trycloudflare.com&path=/e91b8351915c3e2a7e0cf2ce1bd9de36&sni=tubes-triple-monitored-settled.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://tubes-triple-monitored-settled.trycloudflare.com",
+  "host": "tubes-triple-monitored-settled.trycloudflare.com",
+  "uuid": "3f66d9dd-621f-4b80-bdc2-af0b58a9d48a",
+  "path": "/e91b8351915c3e2a7e0cf2ce1bd9de36",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "ten-ips-administration-org.trycloudflare.com",
+  "sni": "tubes-triple-monitored-settled.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-20T21:30:37Z"
+  "updated_at": "2026-09-21T03:01:20Z"
 }
