@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://7a154eb3-00ab-4b49-a5a9-0d2dab3ac374@tenant-african-dose-benjamin.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tenant-african-dose-benjamin.trycloudflare.com&path=/805d12c4e41c2509dae3d1d74e974f32&sni=tenant-african-dose-benjamin.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://tenant-african-dose-benjamin.trycloudflare.com",
-  "host": "tenant-african-dose-benjamin.trycloudflare.com",
-  "uuid": "7a154eb3-00ab-4b49-a5a9-0d2dab3ac374",
-  "path": "/805d12c4e41c2509dae3d1d74e974f32",
+  "vless_uri": "vless://04f329b8-93af-4c45-9deb-14fc248ed6f4@idea-hundreds-making-node.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=idea-hundreds-making-node.trycloudflare.com&path=/7de3b9cd7ed88f0384e1813c990caf55&sni=idea-hundreds-making-node.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://idea-hundreds-making-node.trycloudflare.com",
+  "host": "idea-hundreds-making-node.trycloudflare.com",
+  "uuid": "04f329b8-93af-4c45-9deb-14fc248ed6f4",
+  "path": "/7de3b9cd7ed88f0384e1813c990caf55",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "tenant-african-dose-benjamin.trycloudflare.com",
+  "sni": "idea-hundreds-making-node.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-21T08:32:06Z"
+  "updated_at": "2026-09-21T09:09:37Z"
 }
