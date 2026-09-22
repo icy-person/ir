@@ -1,1 +1,1 @@
-vless://705f00f9-6444-480a-a0ad-9376ffe698ef@from-heated-implies-asia.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=from-heated-implies-asia.trycloudflare.com&path=/4756d53dd236d2c73c11a4640e987274&sni=from-heated-implies-asia.trycloudflare.com#GitHub-Xray
+vless://02296508-da74-4a8f-a92f-6ac7496e01bd@bias-hourly-notebooks-rolls.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bias-hourly-notebooks-rolls.trycloudflare.com&path=/43e54010f31db92bc748cff93008b6fe&sni=bias-hourly-notebooks-rolls.trycloudflare.com#GitHub-Xray
