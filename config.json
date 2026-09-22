@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://ffb75c8b-cc5c-423d-a2e4-c97c5085fd77@functioning-mattress-unto-color.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=functioning-mattress-unto-color.trycloudflare.com&path=/c86c8e29f725beb0da17be9ac3506667&sni=functioning-mattress-unto-color.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://functioning-mattress-unto-color.trycloudflare.com",
-  "host": "functioning-mattress-unto-color.trycloudflare.com",
-  "uuid": "ffb75c8b-cc5c-423d-a2e4-c97c5085fd77",
-  "path": "/c86c8e29f725beb0da17be9ac3506667",
+  "vless_uri": "vless://922ff5cd-4e97-4b33-b87b-9846017d57d4@respondents-innocent-hist-metro.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=respondents-innocent-hist-metro.trycloudflare.com&path=/19855661bcf9212b1d74ac3574f8e2f8&sni=respondents-innocent-hist-metro.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://respondents-innocent-hist-metro.trycloudflare.com",
+  "host": "respondents-innocent-hist-metro.trycloudflare.com",
+  "uuid": "922ff5cd-4e97-4b33-b87b-9846017d57d4",
+  "path": "/19855661bcf9212b1d74ac3574f8e2f8",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "functioning-mattress-unto-color.trycloudflare.com",
+  "sni": "respondents-innocent-hist-metro.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-21T20:11:10Z"
+  "updated_at": "2026-09-22T01:41:51Z"
 }
