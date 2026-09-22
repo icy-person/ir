@@ -1,1 +1,1 @@
-vless://922ff5cd-4e97-4b33-b87b-9846017d57d4@respondents-innocent-hist-metro.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=respondents-innocent-hist-metro.trycloudflare.com&path=/19855661bcf9212b1d74ac3574f8e2f8&sni=respondents-innocent-hist-metro.trycloudflare.com#GitHub-Xray
+vless://b3a1a47d-9a30-4e65-a252-1a3827cba4a8@defined-quest-corp-gig.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=defined-quest-corp-gig.trycloudflare.com&path=/1394ee89e73962bb7a9643abf47511a7&sni=defined-quest-corp-gig.trycloudflare.com#GitHub-Xray
