@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://9297c87b-d097-4858-9e52-87c56e815e58@weighted-disabilities-terms-piece.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=weighted-disabilities-terms-piece.trycloudflare.com&path=/42af8f56f5a9275e73ffde0cec23f6d2&sni=weighted-disabilities-terms-piece.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://weighted-disabilities-terms-piece.trycloudflare.com",
-  "host": "weighted-disabilities-terms-piece.trycloudflare.com",
-  "uuid": "9297c87b-d097-4858-9e52-87c56e815e58",
-  "path": "/42af8f56f5a9275e73ffde0cec23f6d2",
+  "vless_uri": "vless://705f00f9-6444-480a-a0ad-9376ffe698ef@from-heated-implies-asia.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=from-heated-implies-asia.trycloudflare.com&path=/4756d53dd236d2c73c11a4640e987274&sni=from-heated-implies-asia.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://from-heated-implies-asia.trycloudflare.com",
+  "host": "from-heated-implies-asia.trycloudflare.com",
+  "uuid": "705f00f9-6444-480a-a0ad-9376ffe698ef",
+  "path": "/4756d53dd236d2c73c11a4640e987274",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "weighted-disabilities-terms-piece.trycloudflare.com",
+  "sni": "from-heated-implies-asia.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-22T12:43:14Z"
+  "updated_at": "2026-09-22T18:13:58Z"
 }
