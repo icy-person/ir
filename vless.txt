@@ -1,1 +1,1 @@
-vless://b3a1a47d-9a30-4e65-a252-1a3827cba4a8@defined-quest-corp-gig.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=defined-quest-corp-gig.trycloudflare.com&path=/1394ee89e73962bb7a9643abf47511a7&sni=defined-quest-corp-gig.trycloudflare.com#GitHub-Xray
+vless://9297c87b-d097-4858-9e52-87c56e815e58@weighted-disabilities-terms-piece.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=weighted-disabilities-terms-piece.trycloudflare.com&path=/42af8f56f5a9275e73ffde0cec23f6d2&sni=weighted-disabilities-terms-piece.trycloudflare.com#GitHub-Xray
