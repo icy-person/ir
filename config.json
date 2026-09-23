@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://0f892772-d149-492d-a7b5-87bc0fc9d3aa@assured-sit-lakes-relatively.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=assured-sit-lakes-relatively.trycloudflare.com&path=/40057bf098cbce41cfcb702d45bd3010&sni=assured-sit-lakes-relatively.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://assured-sit-lakes-relatively.trycloudflare.com",
-  "host": "assured-sit-lakes-relatively.trycloudflare.com",
-  "uuid": "0f892772-d149-492d-a7b5-87bc0fc9d3aa",
-  "path": "/40057bf098cbce41cfcb702d45bd3010",
+  "vless_uri": "vless://0dcb9b5f-6ef8-4771-9156-e77a9571a505@documented-subject-insertion-agency.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=documented-subject-insertion-agency.trycloudflare.com&path=/b87a22e4510cae29cd02aafb1ae95d0c&sni=documented-subject-insertion-agency.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://documented-subject-insertion-agency.trycloudflare.com",
+  "host": "documented-subject-insertion-agency.trycloudflare.com",
+  "uuid": "0dcb9b5f-6ef8-4771-9156-e77a9571a505",
+  "path": "/b87a22e4510cae29cd02aafb1ae95d0c",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "assured-sit-lakes-relatively.trycloudflare.com",
+  "sni": "documented-subject-insertion-agency.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-23T10:46:43Z"
+  "updated_at": "2026-09-23T16:17:29Z"
 }
