@@ -1,1 +1,1 @@
-vless://02296508-da74-4a8f-a92f-6ac7496e01bd@bias-hourly-notebooks-rolls.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bias-hourly-notebooks-rolls.trycloudflare.com&path=/43e54010f31db92bc748cff93008b6fe&sni=bias-hourly-notebooks-rolls.trycloudflare.com#GitHub-Xray
+vless://b9ad553c-452a-4969-a386-a8972f18ac26@values-kodak-tutorial-two.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=values-kodak-tutorial-two.trycloudflare.com&path=/b5bfd6cd83709f1d87347e3314618c5c&sni=values-kodak-tutorial-two.trycloudflare.com#GitHub-Xray
