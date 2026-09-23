@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://b9ad553c-452a-4969-a386-a8972f18ac26@values-kodak-tutorial-two.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=values-kodak-tutorial-two.trycloudflare.com&path=/b5bfd6cd83709f1d87347e3314618c5c&sni=values-kodak-tutorial-two.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://values-kodak-tutorial-two.trycloudflare.com",
-  "host": "values-kodak-tutorial-two.trycloudflare.com",
-  "uuid": "b9ad553c-452a-4969-a386-a8972f18ac26",
-  "path": "/b5bfd6cd83709f1d87347e3314618c5c",
+  "vless_uri": "vless://0f892772-d149-492d-a7b5-87bc0fc9d3aa@assured-sit-lakes-relatively.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=assured-sit-lakes-relatively.trycloudflare.com&path=/40057bf098cbce41cfcb702d45bd3010&sni=assured-sit-lakes-relatively.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://assured-sit-lakes-relatively.trycloudflare.com",
+  "host": "assured-sit-lakes-relatively.trycloudflare.com",
+  "uuid": "0f892772-d149-492d-a7b5-87bc0fc9d3aa",
+  "path": "/40057bf098cbce41cfcb702d45bd3010",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "values-kodak-tutorial-two.trycloudflare.com",
+  "sni": "assured-sit-lakes-relatively.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-23T05:15:28Z"
+  "updated_at": "2026-09-23T10:46:43Z"
 }
