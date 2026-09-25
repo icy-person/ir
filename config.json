@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://2cd79e77-6e58-43bd-9d2d-3fb819059256@expectations-parliament-tested-existence.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=expectations-parliament-tested-existence.trycloudflare.com&path=/418113a6b7ee9752805f055cf99e87e1&sni=expectations-parliament-tested-existence.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://expectations-parliament-tested-existence.trycloudflare.com",
-  "host": "expectations-parliament-tested-existence.trycloudflare.com",
-  "uuid": "2cd79e77-6e58-43bd-9d2d-3fb819059256",
-  "path": "/418113a6b7ee9752805f055cf99e87e1",
+  "vless_uri": "vless://335a9a37-5896-4111-95c3-0ed8153e1f22@final-bears-jenny-liable.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=final-bears-jenny-liable.trycloudflare.com&path=/87d75eb7951bd5c85c2bb8a114de96f9&sni=final-bears-jenny-liable.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://final-bears-jenny-liable.trycloudflare.com",
+  "host": "final-bears-jenny-liable.trycloudflare.com",
+  "uuid": "335a9a37-5896-4111-95c3-0ed8153e1f22",
+  "path": "/87d75eb7951bd5c85c2bb8a114de96f9",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "expectations-parliament-tested-existence.trycloudflare.com",
+  "sni": "final-bears-jenny-liable.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-24T19:51:49Z"
+  "updated_at": "2026-09-25T01:22:40Z"
 }
