@@ -1,1 +1,1 @@
-vless://e403d7cb-f334-4535-92d2-d6c4e01c6a10@walked-subscribe-ment-signing.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=walked-subscribe-ment-signing.trycloudflare.com&path=/27ae1f444eee36a7383a65cf34f049f9&sni=walked-subscribe-ment-signing.trycloudflare.com#GitHub-Xray
+vless://d367201b-99dc-451d-a6cc-fd7ad0c72544@advice-silent-netscape-foods.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=advice-silent-netscape-foods.trycloudflare.com&path=/34cab8f76982fb4dbdd0d8c145938067&sni=advice-silent-netscape-foods.trycloudflare.com#GitHub-Xray
