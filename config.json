@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://1ed9f955-af5e-4c01-a390-e0de8e845a79@payroll-causes-launched-seems.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=payroll-causes-launched-seems.trycloudflare.com&path=/de75644f327e424eaae2aabf373563a7&sni=payroll-causes-launched-seems.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://payroll-causes-launched-seems.trycloudflare.com",
-  "host": "payroll-causes-launched-seems.trycloudflare.com",
-  "uuid": "1ed9f955-af5e-4c01-a390-e0de8e845a79",
-  "path": "/de75644f327e424eaae2aabf373563a7",
+  "vless_uri": "vless://e403d7cb-f334-4535-92d2-d6c4e01c6a10@walked-subscribe-ment-signing.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=walked-subscribe-ment-signing.trycloudflare.com&path=/27ae1f444eee36a7383a65cf34f049f9&sni=walked-subscribe-ment-signing.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://walked-subscribe-ment-signing.trycloudflare.com",
+  "host": "walked-subscribe-ment-signing.trycloudflare.com",
+  "uuid": "e403d7cb-f334-4535-92d2-d6c4e01c6a10",
+  "path": "/27ae1f444eee36a7383a65cf34f049f9",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "payroll-causes-launched-seems.trycloudflare.com",
+  "sni": "walked-subscribe-ment-signing.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-26T04:57:03Z"
+  "updated_at": "2026-09-26T10:27:48Z"
 }
