@@ -1,1 +1,1 @@
-vless://9cce1c76-516a-4736-86f9-c41183a23675@despite-tasks-step-easily.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=despite-tasks-step-easily.trycloudflare.com&path=/53a1ffbe8e32601ec6ecd3b428f44466&sni=despite-tasks-step-easily.trycloudflare.com#GitHub-Xray
+vless://1ed9f955-af5e-4c01-a390-e0de8e845a79@payroll-causes-launched-seems.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=payroll-causes-launched-seems.trycloudflare.com&path=/de75644f327e424eaae2aabf373563a7&sni=payroll-causes-launched-seems.trycloudflare.com#GitHub-Xray
