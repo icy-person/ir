@@ -1,1 +1,1 @@
-vless://a3c88fbb-9673-418a-bf2e-d9591a0250e6@declare-balanced-surfaces-award.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=declare-balanced-surfaces-award.trycloudflare.com&path=/d15e54b36da691d99b2133bb8cc6790d&sni=declare-balanced-surfaces-award.trycloudflare.com#GitHub-Xray
+vless://d48b728a-6fa6-4f80-b1d3-6696f8cdf1c0@vsnet-among-speaking-rates.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=vsnet-among-speaking-rates.trycloudflare.com&path=/2f4c2c0ffd0174b33e4449fd65e6f612&sni=vsnet-among-speaking-rates.trycloudflare.com#GitHub-Xray
