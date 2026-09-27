@@ -1,1 +1,1 @@
-vless://7ee6b078-6832-4884-96a9-45356901fb63@bills-integer-pointer-pat.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bills-integer-pointer-pat.trycloudflare.com&path=/53b5ffa40051732edba778fd16d83dce&sni=bills-integer-pointer-pat.trycloudflare.com#GitHub-Xray
+vless://a3c88fbb-9673-418a-bf2e-d9591a0250e6@declare-balanced-surfaces-award.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=declare-balanced-surfaces-award.trycloudflare.com&path=/d15e54b36da691d99b2133bb8cc6790d&sni=declare-balanced-surfaces-award.trycloudflare.com#GitHub-Xray

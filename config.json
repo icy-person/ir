@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://7ee6b078-6832-4884-96a9-45356901fb63@bills-integer-pointer-pat.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bills-integer-pointer-pat.trycloudflare.com&path=/53b5ffa40051732edba778fd16d83dce&sni=bills-integer-pointer-pat.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://bills-integer-pointer-pat.trycloudflare.com",
-  "host": "bills-integer-pointer-pat.trycloudflare.com",
-  "uuid": "7ee6b078-6832-4884-96a9-45356901fb63",
-  "path": "/53b5ffa40051732edba778fd16d83dce",
+  "vless_uri": "vless://a3c88fbb-9673-418a-bf2e-d9591a0250e6@declare-balanced-surfaces-award.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=declare-balanced-surfaces-award.trycloudflare.com&path=/d15e54b36da691d99b2133bb8cc6790d&sni=declare-balanced-surfaces-award.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://declare-balanced-surfaces-award.trycloudflare.com",
+  "host": "declare-balanced-surfaces-award.trycloudflare.com",
+  "uuid": "a3c88fbb-9673-418a-bf2e-d9591a0250e6",
+  "path": "/d15e54b36da691d99b2133bb8cc6790d",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "bills-integer-pointer-pat.trycloudflare.com",
+  "sni": "declare-balanced-surfaces-award.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-27T08:31:04Z"
+  "updated_at": "2026-09-27T14:01:48Z"
 }
