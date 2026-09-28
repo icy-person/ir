@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://d63c9183-fed8-4f47-806e-797f3f395243@organizational-station-wild-lights.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=organizational-station-wild-lights.trycloudflare.com&path=/ba3e5b4af0e016c3bafffde13eae31ce&sni=organizational-station-wild-lights.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://organizational-station-wild-lights.trycloudflare.com",
-  "host": "organizational-station-wild-lights.trycloudflare.com",
-  "uuid": "d63c9183-fed8-4f47-806e-797f3f395243",
-  "path": "/ba3e5b4af0e016c3bafffde13eae31ce",
+  "vless_uri": "vless://3b96e064-b3ef-4e87-ac92-9016cae9adbe@paid-bunny-graphics-viking.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=paid-bunny-graphics-viking.trycloudflare.com&path=/272f4b3993425d4a388b41b18393e758&sni=paid-bunny-graphics-viking.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://paid-bunny-graphics-viking.trycloudflare.com",
+  "host": "paid-bunny-graphics-viking.trycloudflare.com",
+  "uuid": "3b96e064-b3ef-4e87-ac92-9016cae9adbe",
+  "path": "/272f4b3993425d4a388b41b18393e758",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "organizational-station-wild-lights.trycloudflare.com",
+  "sni": "paid-bunny-graphics-viking.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-28T17:35:54Z"
+  "updated_at": "2026-09-28T23:06:41Z"
 }
