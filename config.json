@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://839548dc-e853-4dcb-89a7-20d1bef6e827@laptops-attended-clothes-census.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=laptops-attended-clothes-census.trycloudflare.com&path=/1e5f1056870c93ec1a07c0698c96d89f&sni=laptops-attended-clothes-census.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://laptops-attended-clothes-census.trycloudflare.com",
-  "host": "laptops-attended-clothes-census.trycloudflare.com",
-  "uuid": "839548dc-e853-4dcb-89a7-20d1bef6e827",
-  "path": "/1e5f1056870c93ec1a07c0698c96d89f",
+  "vless_uri": "vless://280dd3ef-c0b5-4d3e-ac0e-a62f5352f1f9@feature-feet-consequences-universe.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=feature-feet-consequences-universe.trycloudflare.com&path=/5aa40fe41312de296f7a544845dbb9c4&sni=feature-feet-consequences-universe.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://feature-feet-consequences-universe.trycloudflare.com",
+  "host": "feature-feet-consequences-universe.trycloudflare.com",
+  "uuid": "280dd3ef-c0b5-4d3e-ac0e-a62f5352f1f9",
+  "path": "/5aa40fe41312de296f7a544845dbb9c4",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "laptops-attended-clothes-census.trycloudflare.com",
+  "sni": "feature-feet-consequences-universe.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-28T06:34:12Z"
+  "updated_at": "2026-09-28T12:05:01Z"
 }
