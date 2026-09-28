@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://d48b728a-6fa6-4f80-b1d3-6696f8cdf1c0@vsnet-among-speaking-rates.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=vsnet-among-speaking-rates.trycloudflare.com&path=/2f4c2c0ffd0174b33e4449fd65e6f612&sni=vsnet-among-speaking-rates.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://vsnet-among-speaking-rates.trycloudflare.com",
-  "host": "vsnet-among-speaking-rates.trycloudflare.com",
-  "uuid": "d48b728a-6fa6-4f80-b1d3-6696f8cdf1c0",
-  "path": "/2f4c2c0ffd0174b33e4449fd65e6f612",
+  "vless_uri": "vless://c8953629-9402-4b4d-9585-fe1557a31f13@resolution-dicke-nhs-src.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=resolution-dicke-nhs-src.trycloudflare.com&path=/edce0e95bd5a58a95c494775c87209a3&sni=resolution-dicke-nhs-src.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://resolution-dicke-nhs-src.trycloudflare.com",
+  "host": "resolution-dicke-nhs-src.trycloudflare.com",
+  "uuid": "c8953629-9402-4b4d-9585-fe1557a31f13",
+  "path": "/edce0e95bd5a58a95c494775c87209a3",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "vsnet-among-speaking-rates.trycloudflare.com",
+  "sni": "resolution-dicke-nhs-src.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-27T19:32:36Z"
+  "updated_at": "2026-09-28T01:03:19Z"
 }

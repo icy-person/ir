@@ -1,1 +1,1 @@
-vless://d48b728a-6fa6-4f80-b1d3-6696f8cdf1c0@vsnet-among-speaking-rates.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=vsnet-among-speaking-rates.trycloudflare.com&path=/2f4c2c0ffd0174b33e4449fd65e6f612&sni=vsnet-among-speaking-rates.trycloudflare.com#GitHub-Xray
+vless://c8953629-9402-4b4d-9585-fe1557a31f13@resolution-dicke-nhs-src.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=resolution-dicke-nhs-src.trycloudflare.com&path=/edce0e95bd5a58a95c494775c87209a3&sni=resolution-dicke-nhs-src.trycloudflare.com#GitHub-Xray
