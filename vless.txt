@@ -1,1 +1,1 @@
-vless://c8953629-9402-4b4d-9585-fe1557a31f13@resolution-dicke-nhs-src.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=resolution-dicke-nhs-src.trycloudflare.com&path=/edce0e95bd5a58a95c494775c87209a3&sni=resolution-dicke-nhs-src.trycloudflare.com#GitHub-Xray
+vless://839548dc-e853-4dcb-89a7-20d1bef6e827@laptops-attended-clothes-census.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=laptops-attended-clothes-census.trycloudflare.com&path=/1e5f1056870c93ec1a07c0698c96d89f&sni=laptops-attended-clothes-census.trycloudflare.com#GitHub-Xray
