@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://3b96e064-b3ef-4e87-ac92-9016cae9adbe@paid-bunny-graphics-viking.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=paid-bunny-graphics-viking.trycloudflare.com&path=/272f4b3993425d4a388b41b18393e758&sni=paid-bunny-graphics-viking.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://paid-bunny-graphics-viking.trycloudflare.com",
-  "host": "paid-bunny-graphics-viking.trycloudflare.com",
-  "uuid": "3b96e064-b3ef-4e87-ac92-9016cae9adbe",
-  "path": "/272f4b3993425d4a388b41b18393e758",
+  "vless_uri": "vless://c2940518-63d6-4406-81e4-88c9dce3e4aa@kirk-conduct-conscious-queensland.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=kirk-conduct-conscious-queensland.trycloudflare.com&path=/5b39bda0284deba02b1e662f80d6b4eb&sni=kirk-conduct-conscious-queensland.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://kirk-conduct-conscious-queensland.trycloudflare.com",
+  "host": "kirk-conduct-conscious-queensland.trycloudflare.com",
+  "uuid": "c2940518-63d6-4406-81e4-88c9dce3e4aa",
+  "path": "/5b39bda0284deba02b1e662f80d6b4eb",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "paid-bunny-graphics-viking.trycloudflare.com",
+  "sni": "kirk-conduct-conscious-queensland.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-28T23:06:41Z"
+  "updated_at": "2026-09-29T04:37:27Z"
 }
