@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://10452093-daac-40c8-aaf9-ff5bc1c31422@permalink-sandra-connector-qualified.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=permalink-sandra-connector-qualified.trycloudflare.com&path=/d3f99b93640ace28d4b2b5ac8399ace0&sni=permalink-sandra-connector-qualified.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://permalink-sandra-connector-qualified.trycloudflare.com",
-  "host": "permalink-sandra-connector-qualified.trycloudflare.com",
-  "uuid": "10452093-daac-40c8-aaf9-ff5bc1c31422",
-  "path": "/d3f99b93640ace28d4b2b5ac8399ace0",
+  "vless_uri": "vless://fdaa0b38-a097-47fb-8cc4-8df4215326e5@strategies-kernel-orientation-attached.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=strategies-kernel-orientation-attached.trycloudflare.com&path=/5ccd8ef1b93e6bf2e720f51d459631f4&sni=strategies-kernel-orientation-attached.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://strategies-kernel-orientation-attached.trycloudflare.com",
+  "host": "strategies-kernel-orientation-attached.trycloudflare.com",
+  "uuid": "fdaa0b38-a097-47fb-8cc4-8df4215326e5",
+  "path": "/5ccd8ef1b93e6bf2e720f51d459631f4",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "permalink-sandra-connector-qualified.trycloudflare.com",
+  "sni": "strategies-kernel-orientation-attached.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-29T15:40:27Z"
+  "updated_at": "2026-09-29T21:11:21Z"
 }
