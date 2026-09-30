@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://e9003328-29a1-454f-9069-2cd5e3e98bd0@foster-lamb-solar-heroes.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=foster-lamb-solar-heroes.trycloudflare.com&path=/895203a43d4d94d41f767aa350428e0c&sni=foster-lamb-solar-heroes.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://foster-lamb-solar-heroes.trycloudflare.com",
-  "host": "foster-lamb-solar-heroes.trycloudflare.com",
-  "uuid": "e9003328-29a1-454f-9069-2cd5e3e98bd0",
-  "path": "/895203a43d4d94d41f767aa350428e0c",
+  "vless_uri": "vless://d7999cbc-a1f1-43ee-acf3-7eecf2adf7db@about-petroleum-query-parental.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=about-petroleum-query-parental.trycloudflare.com&path=/b8301abe0e97570caaad7d5dc6fb9898&sni=about-petroleum-query-parental.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://about-petroleum-query-parental.trycloudflare.com",
+  "host": "about-petroleum-query-parental.trycloudflare.com",
+  "uuid": "d7999cbc-a1f1-43ee-acf3-7eecf2adf7db",
+  "path": "/b8301abe0e97570caaad7d5dc6fb9898",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "foster-lamb-solar-heroes.trycloudflare.com",
+  "sni": "about-petroleum-query-parental.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-30T13:43:49Z"
+  "updated_at": "2026-09-30T19:14:37Z"
 }

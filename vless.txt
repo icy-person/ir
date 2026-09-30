@@ -1,1 +1,1 @@
-vless://e9003328-29a1-454f-9069-2cd5e3e98bd0@foster-lamb-solar-heroes.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=foster-lamb-solar-heroes.trycloudflare.com&path=/895203a43d4d94d41f767aa350428e0c&sni=foster-lamb-solar-heroes.trycloudflare.com#GitHub-Xray
+vless://d7999cbc-a1f1-43ee-acf3-7eecf2adf7db@about-petroleum-query-parental.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=about-petroleum-query-parental.trycloudflare.com&path=/b8301abe0e97570caaad7d5dc6fb9898&sni=about-petroleum-query-parental.trycloudflare.com#GitHub-Xray
