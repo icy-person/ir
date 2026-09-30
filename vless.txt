@@ -1,1 +1,1 @@
-vless://78dfb4cf-2dde-4b8c-9cc7-443d68a52d79@started-toward-river-enclosed.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=started-toward-river-enclosed.trycloudflare.com&path=/3952c58fbe5358642d9aa63a68a2df1b&sni=started-toward-river-enclosed.trycloudflare.com#GitHub-Xray
+vless://e9003328-29a1-454f-9069-2cd5e3e98bd0@foster-lamb-solar-heroes.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=foster-lamb-solar-heroes.trycloudflare.com&path=/895203a43d4d94d41f767aa350428e0c&sni=foster-lamb-solar-heroes.trycloudflare.com#GitHub-Xray
