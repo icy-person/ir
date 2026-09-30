@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://fdaa0b38-a097-47fb-8cc4-8df4215326e5@strategies-kernel-orientation-attached.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=strategies-kernel-orientation-attached.trycloudflare.com&path=/5ccd8ef1b93e6bf2e720f51d459631f4&sni=strategies-kernel-orientation-attached.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://strategies-kernel-orientation-attached.trycloudflare.com",
-  "host": "strategies-kernel-orientation-attached.trycloudflare.com",
-  "uuid": "fdaa0b38-a097-47fb-8cc4-8df4215326e5",
-  "path": "/5ccd8ef1b93e6bf2e720f51d459631f4",
+  "vless_uri": "vless://409e560a-b773-424b-9a19-7fdfcecc330a@patricia-pike-freely-adaptation.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=patricia-pike-freely-adaptation.trycloudflare.com&path=/7b0172eacbc83544a5af6d78bbf84e68&sni=patricia-pike-freely-adaptation.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://patricia-pike-freely-adaptation.trycloudflare.com",
+  "host": "patricia-pike-freely-adaptation.trycloudflare.com",
+  "uuid": "409e560a-b773-424b-9a19-7fdfcecc330a",
+  "path": "/7b0172eacbc83544a5af6d78bbf84e68",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "strategies-kernel-orientation-attached.trycloudflare.com",
+  "sni": "patricia-pike-freely-adaptation.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-29T21:11:21Z"
+  "updated_at": "2026-09-30T02:42:08Z"
 }
