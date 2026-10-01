@@ -1,1 +1,1 @@
-vless://3e5c031d-e5ee-4270-a239-a6fc0b3ec5f3@boundaries-breakdown-higher-kde.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=boundaries-breakdown-higher-kde.trycloudflare.com&path=/06280d987fe8355a5545536cbf74009e&sni=boundaries-breakdown-higher-kde.trycloudflare.com#GitHub-Xray
+vless://d70b3019-638e-4403-8c6e-26051b258131@aims-massage-comics-seems.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=aims-massage-comics-seems.trycloudflare.com&path=/9941776b05e97309a5169f307428d841&sni=aims-massage-comics-seems.trycloudflare.com#GitHub-Xray
