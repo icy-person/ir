@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://d7999cbc-a1f1-43ee-acf3-7eecf2adf7db@about-petroleum-query-parental.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=about-petroleum-query-parental.trycloudflare.com&path=/b8301abe0e97570caaad7d5dc6fb9898&sni=about-petroleum-query-parental.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://about-petroleum-query-parental.trycloudflare.com",
-  "host": "about-petroleum-query-parental.trycloudflare.com",
-  "uuid": "d7999cbc-a1f1-43ee-acf3-7eecf2adf7db",
-  "path": "/b8301abe0e97570caaad7d5dc6fb9898",
+  "vless_uri": "vless://c919c151-f25b-4284-b1ad-cb199849ba0e@spice-laptop-competitors-vehicle.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=spice-laptop-competitors-vehicle.trycloudflare.com&path=/40f388078a8e97fdfa146fbafca3fea8&sni=spice-laptop-competitors-vehicle.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://spice-laptop-competitors-vehicle.trycloudflare.com",
+  "host": "spice-laptop-competitors-vehicle.trycloudflare.com",
+  "uuid": "c919c151-f25b-4284-b1ad-cb199849ba0e",
+  "path": "/40f388078a8e97fdfa146fbafca3fea8",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "about-petroleum-query-parental.trycloudflare.com",
+  "sni": "spice-laptop-competitors-vehicle.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-09-30T19:14:37Z"
+  "updated_at": "2026-10-01T00:45:23Z"
 }
