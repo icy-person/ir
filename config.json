@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://d70b3019-638e-4403-8c6e-26051b258131@aims-massage-comics-seems.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=aims-massage-comics-seems.trycloudflare.com&path=/9941776b05e97309a5169f307428d841&sni=aims-massage-comics-seems.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://aims-massage-comics-seems.trycloudflare.com",
-  "host": "aims-massage-comics-seems.trycloudflare.com",
-  "uuid": "d70b3019-638e-4403-8c6e-26051b258131",
-  "path": "/9941776b05e97309a5169f307428d841",
+  "vless_uri": "vless://2ba8a9d4-863f-4732-a314-8a79fa9a79a6@blair-qld-spend-picture.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=blair-qld-spend-picture.trycloudflare.com&path=/2e78740b6f745a3d563171d3d978db62&sni=blair-qld-spend-picture.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://blair-qld-spend-picture.trycloudflare.com",
+  "host": "blair-qld-spend-picture.trycloudflare.com",
+  "uuid": "2ba8a9d4-863f-4732-a314-8a79fa9a79a6",
+  "path": "/2e78740b6f745a3d563171d3d978db62",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "aims-massage-comics-seems.trycloudflare.com",
+  "sni": "blair-qld-spend-picture.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-01T13:19:04Z"
+  "updated_at": "2026-10-01T18:50:11Z"
 }
