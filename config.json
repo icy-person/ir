@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://fd61359a-f534-46a6-ae90-0fc222cb8d70@viewed-accordance-institutes-shakespeare.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=viewed-accordance-institutes-shakespeare.trycloudflare.com&path=/006c2ec86bd384d3f4f356ea3a1a05e0&sni=viewed-accordance-institutes-shakespeare.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://viewed-accordance-institutes-shakespeare.trycloudflare.com",
-  "host": "viewed-accordance-institutes-shakespeare.trycloudflare.com",
-  "uuid": "fd61359a-f534-46a6-ae90-0fc222cb8d70",
-  "path": "/006c2ec86bd384d3f4f356ea3a1a05e0",
+  "vless_uri": "vless://d7ef46a8-2920-4d60-b442-b0b02e5fde4a@msie-producing-cellular-consultation.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=msie-producing-cellular-consultation.trycloudflare.com&path=/8eb25f26eda6876a21a776074e9ba070&sni=msie-producing-cellular-consultation.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://msie-producing-cellular-consultation.trycloudflare.com",
+  "host": "msie-producing-cellular-consultation.trycloudflare.com",
+  "uuid": "d7ef46a8-2920-4d60-b442-b0b02e5fde4a",
+  "path": "/8eb25f26eda6876a21a776074e9ba070",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "viewed-accordance-institutes-shakespeare.trycloudflare.com",
+  "sni": "msie-producing-cellular-consultation.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-02T00:21:01Z"
+  "updated_at": "2026-10-02T05:51:52Z"
 }
