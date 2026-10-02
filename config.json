@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://f4ae6f80-73cf-4d9c-8d13-09c877ce468d@conclusion-exceptional-underlying-collins.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=conclusion-exceptional-underlying-collins.trycloudflare.com&path=/838cbdfe06a2ab14641022b841eb6126&sni=conclusion-exceptional-underlying-collins.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://conclusion-exceptional-underlying-collins.trycloudflare.com",
-  "host": "conclusion-exceptional-underlying-collins.trycloudflare.com",
-  "uuid": "f4ae6f80-73cf-4d9c-8d13-09c877ce468d",
-  "path": "/838cbdfe06a2ab14641022b841eb6126",
+  "vless_uri": "vless://d27797c7-9046-409d-a715-85be22bffc23@eight-naples-names-discussion.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=eight-naples-names-discussion.trycloudflare.com&path=/85c68faa6340a04db9626df5ea605f97&sni=eight-naples-names-discussion.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://eight-naples-names-discussion.trycloudflare.com",
+  "host": "eight-naples-names-discussion.trycloudflare.com",
+  "uuid": "d27797c7-9046-409d-a715-85be22bffc23",
+  "path": "/85c68faa6340a04db9626df5ea605f97",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "conclusion-exceptional-underlying-collins.trycloudflare.com",
+  "sni": "eight-naples-names-discussion.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-02T16:53:33Z"
+  "updated_at": "2026-10-02T22:24:22Z"
 }
