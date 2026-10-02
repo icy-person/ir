@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://d7ef46a8-2920-4d60-b442-b0b02e5fde4a@msie-producing-cellular-consultation.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=msie-producing-cellular-consultation.trycloudflare.com&path=/8eb25f26eda6876a21a776074e9ba070&sni=msie-producing-cellular-consultation.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://msie-producing-cellular-consultation.trycloudflare.com",
-  "host": "msie-producing-cellular-consultation.trycloudflare.com",
-  "uuid": "d7ef46a8-2920-4d60-b442-b0b02e5fde4a",
-  "path": "/8eb25f26eda6876a21a776074e9ba070",
+  "vless_uri": "vless://2bbf61fb-ebe0-4c3e-a452-7c2ecd175f2b@plaza-subscribers-expenses-carnival.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=plaza-subscribers-expenses-carnival.trycloudflare.com&path=/0831d9ae9dd02bdaa81ea455c994492a&sni=plaza-subscribers-expenses-carnival.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://plaza-subscribers-expenses-carnival.trycloudflare.com",
+  "host": "plaza-subscribers-expenses-carnival.trycloudflare.com",
+  "uuid": "2bbf61fb-ebe0-4c3e-a452-7c2ecd175f2b",
+  "path": "/0831d9ae9dd02bdaa81ea455c994492a",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "msie-producing-cellular-consultation.trycloudflare.com",
+  "sni": "plaza-subscribers-expenses-carnival.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-02T05:51:52Z"
+  "updated_at": "2026-10-02T11:22:46Z"
 }
