@@ -1,1 +1,1 @@
-vless://d27797c7-9046-409d-a715-85be22bffc23@eight-naples-names-discussion.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=eight-naples-names-discussion.trycloudflare.com&path=/85c68faa6340a04db9626df5ea605f97&sni=eight-naples-names-discussion.trycloudflare.com#GitHub-Xray
+vless://8525a2ea-e38c-4a8e-a68a-267df95c92e3@archived-debug-insider-finest.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=archived-debug-insider-finest.trycloudflare.com&path=/d12f75df66cac7d266c77755297ef243&sni=archived-debug-insider-finest.trycloudflare.com#GitHub-Xray
