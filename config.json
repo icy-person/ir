@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://2fc804d5-e480-41de-8176-97358046bde4@directly-international-illustrated-persistent.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=directly-international-illustrated-persistent.trycloudflare.com&path=/a21ca60c9ac6d7a4f6cbce3537d9aa47&sni=directly-international-illustrated-persistent.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://directly-international-illustrated-persistent.trycloudflare.com",
-  "host": "directly-international-illustrated-persistent.trycloudflare.com",
-  "uuid": "2fc804d5-e480-41de-8176-97358046bde4",
-  "path": "/a21ca60c9ac6d7a4f6cbce3537d9aa47",
+  "vless_uri": "vless://7b9ebf4a-e17b-4333-accd-8ee3b6d97c03@exemption-figured-exemption-accompanying.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=exemption-figured-exemption-accompanying.trycloudflare.com&path=/5c98900c7be341a9648d210038722b2c&sni=exemption-figured-exemption-accompanying.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://exemption-figured-exemption-accompanying.trycloudflare.com",
+  "host": "exemption-figured-exemption-accompanying.trycloudflare.com",
+  "uuid": "7b9ebf4a-e17b-4333-accd-8ee3b6d97c03",
+  "path": "/5c98900c7be341a9648d210038722b2c",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "directly-international-illustrated-persistent.trycloudflare.com",
+  "sni": "exemption-figured-exemption-accompanying.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-03T09:26:06Z"
+  "updated_at": "2026-10-03T14:56:57Z"
 }
