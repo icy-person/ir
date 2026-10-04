@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://e0b2690d-bce5-4159-a325-9ef17b344b83@bus-wilson-ethical-rna.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bus-wilson-ethical-rna.trycloudflare.com&path=/4d3945aab295d0eb353dbd90a937f233&sni=bus-wilson-ethical-rna.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://bus-wilson-ethical-rna.trycloudflare.com",
-  "host": "bus-wilson-ethical-rna.trycloudflare.com",
-  "uuid": "e0b2690d-bce5-4159-a325-9ef17b344b83",
-  "path": "/4d3945aab295d0eb353dbd90a937f233",
+  "vless_uri": "vless://fe6f0a1b-60de-4957-92f5-447a9e2fbd3a@venture-tutorials-spring-hollow.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=venture-tutorials-spring-hollow.trycloudflare.com&path=/225c7ccc0bfd2231e8d232e92591c4e0&sni=venture-tutorials-spring-hollow.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://venture-tutorials-spring-hollow.trycloudflare.com",
+  "host": "venture-tutorials-spring-hollow.trycloudflare.com",
+  "uuid": "fe6f0a1b-60de-4957-92f5-447a9e2fbd3a",
+  "path": "/225c7ccc0bfd2231e8d232e92591c4e0",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "bus-wilson-ethical-rna.trycloudflare.com",
+  "sni": "venture-tutorials-spring-hollow.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-04T07:29:18Z"
+  "updated_at": "2026-10-04T13:00:09Z"
 }

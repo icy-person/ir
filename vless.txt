@@ -1,1 +1,1 @@
-vless://e0b2690d-bce5-4159-a325-9ef17b344b83@bus-wilson-ethical-rna.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bus-wilson-ethical-rna.trycloudflare.com&path=/4d3945aab295d0eb353dbd90a937f233&sni=bus-wilson-ethical-rna.trycloudflare.com#GitHub-Xray
+vless://fe6f0a1b-60de-4957-92f5-447a9e2fbd3a@venture-tutorials-spring-hollow.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=venture-tutorials-spring-hollow.trycloudflare.com&path=/225c7ccc0bfd2231e8d232e92591c4e0&sni=venture-tutorials-spring-hollow.trycloudflare.com#GitHub-Xray
