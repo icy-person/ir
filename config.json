@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://e9243cfe-d037-4e46-b1bf-060693cc4799@mediterranean-educated-occupied-programme.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=mediterranean-educated-occupied-programme.trycloudflare.com&path=/b844780001068805ebc51c845fa3f1dc&sni=mediterranean-educated-occupied-programme.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://mediterranean-educated-occupied-programme.trycloudflare.com",
-  "host": "mediterranean-educated-occupied-programme.trycloudflare.com",
-  "uuid": "e9243cfe-d037-4e46-b1bf-060693cc4799",
-  "path": "/b844780001068805ebc51c845fa3f1dc",
+  "vless_uri": "vless://e0b2690d-bce5-4159-a325-9ef17b344b83@bus-wilson-ethical-rna.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bus-wilson-ethical-rna.trycloudflare.com&path=/4d3945aab295d0eb353dbd90a937f233&sni=bus-wilson-ethical-rna.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://bus-wilson-ethical-rna.trycloudflare.com",
+  "host": "bus-wilson-ethical-rna.trycloudflare.com",
+  "uuid": "e0b2690d-bce5-4159-a325-9ef17b344b83",
+  "path": "/4d3945aab295d0eb353dbd90a937f233",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "mediterranean-educated-occupied-programme.trycloudflare.com",
+  "sni": "bus-wilson-ethical-rna.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-04T01:58:32Z"
+  "updated_at": "2026-10-04T07:29:18Z"
 }
