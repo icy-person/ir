@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://fe6f0a1b-60de-4957-92f5-447a9e2fbd3a@venture-tutorials-spring-hollow.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=venture-tutorials-spring-hollow.trycloudflare.com&path=/225c7ccc0bfd2231e8d232e92591c4e0&sni=venture-tutorials-spring-hollow.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://venture-tutorials-spring-hollow.trycloudflare.com",
-  "host": "venture-tutorials-spring-hollow.trycloudflare.com",
-  "uuid": "fe6f0a1b-60de-4957-92f5-447a9e2fbd3a",
-  "path": "/225c7ccc0bfd2231e8d232e92591c4e0",
+  "vless_uri": "vless://e209d6f1-6eb5-4f6d-81e4-026f3a2f8d55@statutory-island-formed-mill.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=statutory-island-formed-mill.trycloudflare.com&path=/4b6c3f88a94e8a4dbcf8daa1e18fa4f7&sni=statutory-island-formed-mill.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://statutory-island-formed-mill.trycloudflare.com",
+  "host": "statutory-island-formed-mill.trycloudflare.com",
+  "uuid": "e209d6f1-6eb5-4f6d-81e4-026f3a2f8d55",
+  "path": "/4b6c3f88a94e8a4dbcf8daa1e18fa4f7",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "venture-tutorials-spring-hollow.trycloudflare.com",
+  "sni": "statutory-island-formed-mill.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-04T13:00:09Z"
+  "updated_at": "2026-10-04T18:30:57Z"
 }
