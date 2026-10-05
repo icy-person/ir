@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://2ce9cf63-fa13-4ade-b589-d02c7f538990@guards-into-professional-tracy.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=guards-into-professional-tracy.trycloudflare.com&path=/c5e8d4500eb0b9cee7e2e019ecedbd37&sni=guards-into-professional-tracy.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://guards-into-professional-tracy.trycloudflare.com",
-  "host": "guards-into-professional-tracy.trycloudflare.com",
-  "uuid": "2ce9cf63-fa13-4ade-b589-d02c7f538990",
-  "path": "/c5e8d4500eb0b9cee7e2e019ecedbd37",
+  "vless_uri": "vless://116d018e-3380-4251-9454-c25251dc3542@arthur-start-fee-video.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=arthur-start-fee-video.trycloudflare.com&path=/e550bae977e6e10731a2fe8dc40ee5df&sni=arthur-start-fee-video.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://arthur-start-fee-video.trycloudflare.com",
+  "host": "arthur-start-fee-video.trycloudflare.com",
+  "uuid": "116d018e-3380-4251-9454-c25251dc3542",
+  "path": "/e550bae977e6e10731a2fe8dc40ee5df",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "guards-into-professional-tracy.trycloudflare.com",
+  "sni": "arthur-start-fee-video.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-05T05:32:57Z"
+  "updated_at": "2026-10-05T11:03:49Z"
 }
