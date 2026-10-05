@@ -1,1 +1,1 @@
-vless://116d018e-3380-4251-9454-c25251dc3542@arthur-start-fee-video.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=arthur-start-fee-video.trycloudflare.com&path=/e550bae977e6e10731a2fe8dc40ee5df&sni=arthur-start-fee-video.trycloudflare.com#GitHub-Xray
+vless://a9ce33e1-fdcf-4da3-88fa-cc48b3dd34bc@mod-assessed-powerpoint-andrea.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=mod-assessed-powerpoint-andrea.trycloudflare.com&path=/a4665be04e9be6cf0cab1404a922cecf&sni=mod-assessed-powerpoint-andrea.trycloudflare.com#GitHub-Xray
