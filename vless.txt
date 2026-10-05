@@ -1,1 +1,1 @@
-vless://a9ce33e1-fdcf-4da3-88fa-cc48b3dd34bc@mod-assessed-powerpoint-andrea.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=mod-assessed-powerpoint-andrea.trycloudflare.com&path=/a4665be04e9be6cf0cab1404a922cecf&sni=mod-assessed-powerpoint-andrea.trycloudflare.com#GitHub-Xray
+vless://b6fe20f7-357c-4c11-8a3c-004b12c4de6f@might-meters-two-admitted.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=might-meters-two-admitted.trycloudflare.com&path=/c7e637f5dfc50ba16a8ee896a26d01d2&sni=might-meters-two-admitted.trycloudflare.com#GitHub-Xray

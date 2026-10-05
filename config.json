@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://a9ce33e1-fdcf-4da3-88fa-cc48b3dd34bc@mod-assessed-powerpoint-andrea.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=mod-assessed-powerpoint-andrea.trycloudflare.com&path=/a4665be04e9be6cf0cab1404a922cecf&sni=mod-assessed-powerpoint-andrea.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://mod-assessed-powerpoint-andrea.trycloudflare.com",
-  "host": "mod-assessed-powerpoint-andrea.trycloudflare.com",
-  "uuid": "a9ce33e1-fdcf-4da3-88fa-cc48b3dd34bc",
-  "path": "/a4665be04e9be6cf0cab1404a922cecf",
+  "vless_uri": "vless://b6fe20f7-357c-4c11-8a3c-004b12c4de6f@might-meters-two-admitted.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=might-meters-two-admitted.trycloudflare.com&path=/c7e637f5dfc50ba16a8ee896a26d01d2&sni=might-meters-two-admitted.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://might-meters-two-admitted.trycloudflare.com",
+  "host": "might-meters-two-admitted.trycloudflare.com",
+  "uuid": "b6fe20f7-357c-4c11-8a3c-004b12c4de6f",
+  "path": "/c7e637f5dfc50ba16a8ee896a26d01d2",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "mod-assessed-powerpoint-andrea.trycloudflare.com",
+  "sni": "might-meters-two-admitted.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-05T16:34:36Z"
+  "updated_at": "2026-10-05T22:05:23Z"
 }
