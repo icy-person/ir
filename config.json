@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://e209d6f1-6eb5-4f6d-81e4-026f3a2f8d55@statutory-island-formed-mill.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=statutory-island-formed-mill.trycloudflare.com&path=/4b6c3f88a94e8a4dbcf8daa1e18fa4f7&sni=statutory-island-formed-mill.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://statutory-island-formed-mill.trycloudflare.com",
-  "host": "statutory-island-formed-mill.trycloudflare.com",
-  "uuid": "e209d6f1-6eb5-4f6d-81e4-026f3a2f8d55",
-  "path": "/4b6c3f88a94e8a4dbcf8daa1e18fa4f7",
+  "vless_uri": "vless://c453ae8a-f729-4191-865d-a2915265153c@geography-nobody-first-mia.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=geography-nobody-first-mia.trycloudflare.com&path=/30dea8914e7e54b685cb9778897a2763&sni=geography-nobody-first-mia.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://geography-nobody-first-mia.trycloudflare.com",
+  "host": "geography-nobody-first-mia.trycloudflare.com",
+  "uuid": "c453ae8a-f729-4191-865d-a2915265153c",
+  "path": "/30dea8914e7e54b685cb9778897a2763",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "statutory-island-formed-mill.trycloudflare.com",
+  "sni": "geography-nobody-first-mia.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-04T18:30:57Z"
+  "updated_at": "2026-10-05T00:02:08Z"
 }
