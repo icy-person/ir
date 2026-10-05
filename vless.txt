@@ -1,1 +1,1 @@
-vless://c453ae8a-f729-4191-865d-a2915265153c@geography-nobody-first-mia.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=geography-nobody-first-mia.trycloudflare.com&path=/30dea8914e7e54b685cb9778897a2763&sni=geography-nobody-first-mia.trycloudflare.com#GitHub-Xray
+vless://2ce9cf63-fa13-4ade-b589-d02c7f538990@guards-into-professional-tracy.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=guards-into-professional-tracy.trycloudflare.com&path=/c5e8d4500eb0b9cee7e2e019ecedbd37&sni=guards-into-professional-tracy.trycloudflare.com#GitHub-Xray

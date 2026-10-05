@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://c453ae8a-f729-4191-865d-a2915265153c@geography-nobody-first-mia.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=geography-nobody-first-mia.trycloudflare.com&path=/30dea8914e7e54b685cb9778897a2763&sni=geography-nobody-first-mia.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://geography-nobody-first-mia.trycloudflare.com",
-  "host": "geography-nobody-first-mia.trycloudflare.com",
-  "uuid": "c453ae8a-f729-4191-865d-a2915265153c",
-  "path": "/30dea8914e7e54b685cb9778897a2763",
+  "vless_uri": "vless://2ce9cf63-fa13-4ade-b589-d02c7f538990@guards-into-professional-tracy.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=guards-into-professional-tracy.trycloudflare.com&path=/c5e8d4500eb0b9cee7e2e019ecedbd37&sni=guards-into-professional-tracy.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://guards-into-professional-tracy.trycloudflare.com",
+  "host": "guards-into-professional-tracy.trycloudflare.com",
+  "uuid": "2ce9cf63-fa13-4ade-b589-d02c7f538990",
+  "path": "/c5e8d4500eb0b9cee7e2e019ecedbd37",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "geography-nobody-first-mia.trycloudflare.com",
+  "sni": "guards-into-professional-tracy.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-05T00:02:08Z"
+  "updated_at": "2026-10-05T05:32:57Z"
 }
