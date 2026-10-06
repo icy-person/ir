@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://08fd48fd-c5fa-4d33-ba54-563e36743566@considerable-inexpensive-riders-planners.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=considerable-inexpensive-riders-planners.trycloudflare.com&path=/1706eaebeb425afc2321624f61b766e2&sni=considerable-inexpensive-riders-planners.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://considerable-inexpensive-riders-planners.trycloudflare.com",
-  "host": "considerable-inexpensive-riders-planners.trycloudflare.com",
-  "uuid": "08fd48fd-c5fa-4d33-ba54-563e36743566",
-  "path": "/1706eaebeb425afc2321624f61b766e2",
+  "vless_uri": "vless://c9791f53-b8ae-439e-bb50-2bb05c344388@puzzles-ward-winston-kathy.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=puzzles-ward-winston-kathy.trycloudflare.com&path=/e72066e7b6e156aba5a45cb2e08a5e7c&sni=puzzles-ward-winston-kathy.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://puzzles-ward-winston-kathy.trycloudflare.com",
+  "host": "puzzles-ward-winston-kathy.trycloudflare.com",
+  "uuid": "c9791f53-b8ae-439e-bb50-2bb05c344388",
+  "path": "/e72066e7b6e156aba5a45cb2e08a5e7c",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "considerable-inexpensive-riders-planners.trycloudflare.com",
+  "sni": "puzzles-ward-winston-kathy.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-06T14:37:53Z"
+  "updated_at": "2026-10-06T20:08:37Z"
 }
