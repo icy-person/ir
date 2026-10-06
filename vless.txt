@@ -1,1 +1,1 @@
-vless://375dbef6-b5cc-481d-b7d2-ecee61eff06f@ted-others-alone-rolled.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=ted-others-alone-rolled.trycloudflare.com&path=/c91e81eb1bc02fbed0c815a4b4532be1&sni=ted-others-alone-rolled.trycloudflare.com#GitHub-Xray
+vless://4169f409-b1c0-4882-85a2-90e882252b61@evening-lions-rolling-psi.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=evening-lions-rolling-psi.trycloudflare.com&path=/dd3cb877fb3788180582d5e7b89238d4&sni=evening-lions-rolling-psi.trycloudflare.com#GitHub-Xray
