@@ -1,1 +1,1 @@
-vless://b6fe20f7-357c-4c11-8a3c-004b12c4de6f@might-meters-two-admitted.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=might-meters-two-admitted.trycloudflare.com&path=/c7e637f5dfc50ba16a8ee896a26d01d2&sni=might-meters-two-admitted.trycloudflare.com#GitHub-Xray
+vless://375dbef6-b5cc-481d-b7d2-ecee61eff06f@ted-others-alone-rolled.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=ted-others-alone-rolled.trycloudflare.com&path=/c91e81eb1bc02fbed0c815a4b4532be1&sni=ted-others-alone-rolled.trycloudflare.com#GitHub-Xray
