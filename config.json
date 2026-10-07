@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://86255559-927d-42b1-9b71-06136f7efd56@photos-pleased-plate-affair.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=photos-pleased-plate-affair.trycloudflare.com&path=/c2e784b00562addb6ef44c261e5f3995&sni=photos-pleased-plate-affair.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://photos-pleased-plate-affair.trycloudflare.com",
-  "host": "photos-pleased-plate-affair.trycloudflare.com",
-  "uuid": "86255559-927d-42b1-9b71-06136f7efd56",
-  "path": "/c2e784b00562addb6ef44c261e5f3995",
+  "vless_uri": "vless://cc520ad9-b6ca-42b2-8463-3967f4c569d4@republicans-viewing-independent-owns.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=republicans-viewing-independent-owns.trycloudflare.com&path=/d1a3088835125934564e5e512963d233&sni=republicans-viewing-independent-owns.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://republicans-viewing-independent-owns.trycloudflare.com",
+  "host": "republicans-viewing-independent-owns.trycloudflare.com",
+  "uuid": "cc520ad9-b6ca-42b2-8463-3967f4c569d4",
+  "path": "/d1a3088835125934564e5e512963d233",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "photos-pleased-plate-affair.trycloudflare.com",
+  "sni": "republicans-viewing-independent-owns.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-07T18:11:34Z"
+  "updated_at": "2026-10-07T23:42:21Z"
 }
