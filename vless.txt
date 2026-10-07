@@ -1,1 +1,1 @@
-vless://5332465d-116c-41ce-96f9-af29a7292bcb@wind-defeat-doctrine-rings.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=wind-defeat-doctrine-rings.trycloudflare.com&path=/b53798972b39d5044bde9a919b0b64d4&sni=wind-defeat-doctrine-rings.trycloudflare.com#GitHub-Xray
+vless://21cbd989-d008-4c09-80cb-50ce5cfa7687@walk-lite-interactions-tribe.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=walk-lite-interactions-tribe.trycloudflare.com&path=/dbbfac75373a0bb7b16a59a3b2ff6d87&sni=walk-lite-interactions-tribe.trycloudflare.com#GitHub-Xray
