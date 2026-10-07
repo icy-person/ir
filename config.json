@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://18b82675-13c3-4f28-966d-ede4c3203765@seemed-cartoons-erp-thereby.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=seemed-cartoons-erp-thereby.trycloudflare.com&path=/fd9cc61919a9b995f67bd77515a8dedc&sni=seemed-cartoons-erp-thereby.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://seemed-cartoons-erp-thereby.trycloudflare.com",
-  "host": "seemed-cartoons-erp-thereby.trycloudflare.com",
-  "uuid": "18b82675-13c3-4f28-966d-ede4c3203765",
-  "path": "/fd9cc61919a9b995f67bd77515a8dedc",
+  "vless_uri": "vless://5332465d-116c-41ce-96f9-af29a7292bcb@wind-defeat-doctrine-rings.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=wind-defeat-doctrine-rings.trycloudflare.com&path=/b53798972b39d5044bde9a919b0b64d4&sni=wind-defeat-doctrine-rings.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://wind-defeat-doctrine-rings.trycloudflare.com",
+  "host": "wind-defeat-doctrine-rings.trycloudflare.com",
+  "uuid": "5332465d-116c-41ce-96f9-af29a7292bcb",
+  "path": "/b53798972b39d5044bde9a919b0b64d4",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "seemed-cartoons-erp-thereby.trycloudflare.com",
+  "sni": "wind-defeat-doctrine-rings.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-07T01:39:18Z"
+  "updated_at": "2026-10-07T07:10:03Z"
 }
