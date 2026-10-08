@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://030b9f62-118f-4584-892f-515d8f2ee7eb@seeing-receiving-kyle-realm.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=seeing-receiving-kyle-realm.trycloudflare.com&path=/7cca4b8146008fb71f819edee112a208&sni=seeing-receiving-kyle-realm.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://seeing-receiving-kyle-realm.trycloudflare.com",
-  "host": "seeing-receiving-kyle-realm.trycloudflare.com",
-  "uuid": "030b9f62-118f-4584-892f-515d8f2ee7eb",
-  "path": "/7cca4b8146008fb71f819edee112a208",
+  "vless_uri": "vless://d18f6522-fd83-494a-bcae-35d790f1d958@sells-podcasts-oliver-vegetables.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=sells-podcasts-oliver-vegetables.trycloudflare.com&path=/bcba9c77c343190a07c3496f755137bd&sni=sells-podcasts-oliver-vegetables.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://sells-podcasts-oliver-vegetables.trycloudflare.com",
+  "host": "sells-podcasts-oliver-vegetables.trycloudflare.com",
+  "uuid": "d18f6522-fd83-494a-bcae-35d790f1d958",
+  "path": "/bcba9c77c343190a07c3496f755137bd",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "seeing-receiving-kyle-realm.trycloudflare.com",
+  "sni": "sells-podcasts-oliver-vegetables.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-08T05:13:04Z"
+  "updated_at": "2026-10-08T10:43:45Z"
 }
