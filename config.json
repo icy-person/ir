@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://0368ff32-8fdd-412e-867d-0e324c83ad69@beats-industry-present-automotive.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=beats-industry-present-automotive.trycloudflare.com&path=/e490f6b8a43728432b140d83098e5acc&sni=beats-industry-present-automotive.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://beats-industry-present-automotive.trycloudflare.com",
-  "host": "beats-industry-present-automotive.trycloudflare.com",
-  "uuid": "0368ff32-8fdd-412e-867d-0e324c83ad69",
-  "path": "/e490f6b8a43728432b140d83098e5acc",
+  "vless_uri": "vless://01ef2c14-8df2-40c1-aca0-d37dddd072db@consecutive-connectivity-lived-because.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=consecutive-connectivity-lived-because.trycloudflare.com&path=/98a592fb0fe9c9562fad2e69005a5d3d&sni=consecutive-connectivity-lived-because.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://consecutive-connectivity-lived-because.trycloudflare.com",
+  "host": "consecutive-connectivity-lived-because.trycloudflare.com",
+  "uuid": "01ef2c14-8df2-40c1-aca0-d37dddd072db",
+  "path": "/98a592fb0fe9c9562fad2e69005a5d3d",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "beats-industry-present-automotive.trycloudflare.com",
+  "sni": "consecutive-connectivity-lived-because.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-08T16:14:24Z"
+  "updated_at": "2026-10-08T21:45:03Z"
 }
