@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://a1f98d36-2684-482e-b59a-616f0fb75fe5@recovery-friendly-theatre-proceeding.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=recovery-friendly-theatre-proceeding.trycloudflare.com&path=/e0d32cf2f3f1e7e2d25004fa83e8e568&sni=recovery-friendly-theatre-proceeding.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://recovery-friendly-theatre-proceeding.trycloudflare.com",
-  "host": "recovery-friendly-theatre-proceeding.trycloudflare.com",
-  "uuid": "a1f98d36-2684-482e-b59a-616f0fb75fe5",
-  "path": "/e0d32cf2f3f1e7e2d25004fa83e8e568",
+  "vless_uri": "vless://f9e8c25d-d877-41a9-bde0-eb2e685a2fd5@assessed-lines-restructuring-seller.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=assessed-lines-restructuring-seller.trycloudflare.com&path=/91a895db1f37a243e4bc6260a8a597f3&sni=assessed-lines-restructuring-seller.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://assessed-lines-restructuring-seller.trycloudflare.com",
+  "host": "assessed-lines-restructuring-seller.trycloudflare.com",
+  "uuid": "f9e8c25d-d877-41a9-bde0-eb2e685a2fd5",
+  "path": "/91a895db1f37a243e4bc6260a8a597f3",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "recovery-friendly-theatre-proceeding.trycloudflare.com",
+  "sni": "assessed-lines-restructuring-seller.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-09T03:15:44Z"
+  "updated_at": "2026-10-09T08:46:31Z"
 }
