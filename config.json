@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://f9e8c25d-d877-41a9-bde0-eb2e685a2fd5@assessed-lines-restructuring-seller.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=assessed-lines-restructuring-seller.trycloudflare.com&path=/91a895db1f37a243e4bc6260a8a597f3&sni=assessed-lines-restructuring-seller.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://assessed-lines-restructuring-seller.trycloudflare.com",
-  "host": "assessed-lines-restructuring-seller.trycloudflare.com",
-  "uuid": "f9e8c25d-d877-41a9-bde0-eb2e685a2fd5",
-  "path": "/91a895db1f37a243e4bc6260a8a597f3",
+  "vless_uri": "vless://2208d8aa-1951-4040-93bc-844d838a5743@vendor-abu-defendant-coral.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=vendor-abu-defendant-coral.trycloudflare.com&path=/be051df87defa56b0ba7bce614a29c56&sni=vendor-abu-defendant-coral.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://vendor-abu-defendant-coral.trycloudflare.com",
+  "host": "vendor-abu-defendant-coral.trycloudflare.com",
+  "uuid": "2208d8aa-1951-4040-93bc-844d838a5743",
+  "path": "/be051df87defa56b0ba7bce614a29c56",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "assessed-lines-restructuring-seller.trycloudflare.com",
+  "sni": "vendor-abu-defendant-coral.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-09T08:46:31Z"
+  "updated_at": "2026-10-09T14:17:12Z"
 }
