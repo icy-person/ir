@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://2208d8aa-1951-4040-93bc-844d838a5743@vendor-abu-defendant-coral.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=vendor-abu-defendant-coral.trycloudflare.com&path=/be051df87defa56b0ba7bce614a29c56&sni=vendor-abu-defendant-coral.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://vendor-abu-defendant-coral.trycloudflare.com",
-  "host": "vendor-abu-defendant-coral.trycloudflare.com",
-  "uuid": "2208d8aa-1951-4040-93bc-844d838a5743",
-  "path": "/be051df87defa56b0ba7bce614a29c56",
+  "vless_uri": "vless://1df0a000-64e4-4953-afc5-42a74841c5f8@api.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=api.trycloudflare.com&path=/7c6af897ce0cb6658038825c69f28924&sni=api.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://api.trycloudflare.com",
+  "host": "api.trycloudflare.com",
+  "uuid": "1df0a000-64e4-4953-afc5-42a74841c5f8",
+  "path": "/7c6af897ce0cb6658038825c69f28924",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "vendor-abu-defendant-coral.trycloudflare.com",
+  "sni": "api.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-09T14:17:12Z"
+  "updated_at": "2026-10-09T19:48:05Z"
 }
