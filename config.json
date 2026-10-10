@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://ed449ff5-ffb9-4d90-bcf2-ab8bada1ddc5@offshore-texts-complexity-graph.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=offshore-texts-complexity-graph.trycloudflare.com&path=/a24b76a37166c27dcc01a89777fd82e2&sni=offshore-texts-complexity-graph.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://offshore-texts-complexity-graph.trycloudflare.com",
-  "host": "offshore-texts-complexity-graph.trycloudflare.com",
-  "uuid": "ed449ff5-ffb9-4d90-bcf2-ab8bada1ddc5",
-  "path": "/a24b76a37166c27dcc01a89777fd82e2",
+  "vless_uri": "vless://2b99080e-deea-4ee3-a729-273c4a74ad87@single-thy-relation-hub.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=single-thy-relation-hub.trycloudflare.com&path=/b2ad7da598083e804b08c5df01062a9f&sni=single-thy-relation-hub.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://single-thy-relation-hub.trycloudflare.com",
+  "host": "single-thy-relation-hub.trycloudflare.com",
+  "uuid": "2b99080e-deea-4ee3-a729-273c4a74ad87",
+  "path": "/b2ad7da598083e804b08c5df01062a9f",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "offshore-texts-complexity-graph.trycloudflare.com",
+  "sni": "single-thy-relation-hub.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-10T01:18:45Z"
+  "updated_at": "2026-10-10T06:49:23Z"
 }
