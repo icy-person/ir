@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://4faf79aa-060f-4a7c-b90b-0f53a7833d5b@paul-redhead-trustees-manhattan.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=paul-redhead-trustees-manhattan.trycloudflare.com&path=/d4a00b984550eb9eb3df8260c17da3ae&sni=paul-redhead-trustees-manhattan.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://paul-redhead-trustees-manhattan.trycloudflare.com",
-  "host": "paul-redhead-trustees-manhattan.trycloudflare.com",
-  "uuid": "4faf79aa-060f-4a7c-b90b-0f53a7833d5b",
-  "path": "/d4a00b984550eb9eb3df8260c17da3ae",
+  "vless_uri": "vless://33ab3f2d-2d93-4ad4-bdb2-0e791e8988b6@occur-exhibits-flashers-sublime.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=occur-exhibits-flashers-sublime.trycloudflare.com&path=/1ed7fbe960af21325de0c2a47c276c1f&sni=occur-exhibits-flashers-sublime.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://occur-exhibits-flashers-sublime.trycloudflare.com",
+  "host": "occur-exhibits-flashers-sublime.trycloudflare.com",
+  "uuid": "33ab3f2d-2d93-4ad4-bdb2-0e791e8988b6",
+  "path": "/1ed7fbe960af21325de0c2a47c276c1f",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "paul-redhead-trustees-manhattan.trycloudflare.com",
+  "sni": "occur-exhibits-flashers-sublime.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-11T04:52:32Z"
+  "updated_at": "2026-10-11T10:23:19Z"
 }
