@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://7765b891-ec05-4a78-8ab9-95d7e4e792bf@contest-typically-recordings-maintenance.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=contest-typically-recordings-maintenance.trycloudflare.com&path=/012c9f914a211186df9e4b682b595c2d&sni=contest-typically-recordings-maintenance.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://contest-typically-recordings-maintenance.trycloudflare.com",
-  "host": "contest-typically-recordings-maintenance.trycloudflare.com",
-  "uuid": "7765b891-ec05-4a78-8ab9-95d7e4e792bf",
-  "path": "/012c9f914a211186df9e4b682b595c2d",
+  "vless_uri": "vless://4faf79aa-060f-4a7c-b90b-0f53a7833d5b@paul-redhead-trustees-manhattan.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=paul-redhead-trustees-manhattan.trycloudflare.com&path=/d4a00b984550eb9eb3df8260c17da3ae&sni=paul-redhead-trustees-manhattan.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://paul-redhead-trustees-manhattan.trycloudflare.com",
+  "host": "paul-redhead-trustees-manhattan.trycloudflare.com",
+  "uuid": "4faf79aa-060f-4a7c-b90b-0f53a7833d5b",
+  "path": "/d4a00b984550eb9eb3df8260c17da3ae",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "contest-typically-recordings-maintenance.trycloudflare.com",
+  "sni": "paul-redhead-trustees-manhattan.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-10T23:21:51Z"
+  "updated_at": "2026-10-11T04:52:32Z"
 }
