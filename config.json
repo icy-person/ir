@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://668c5846-4e6c-449e-995b-ab929239b4cb@enclosed-hypothetical-lat-demographic.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=enclosed-hypothetical-lat-demographic.trycloudflare.com&path=/1a39e630fe8c85e4beac4d96c2d7d100&sni=enclosed-hypothetical-lat-demographic.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://enclosed-hypothetical-lat-demographic.trycloudflare.com",
-  "host": "enclosed-hypothetical-lat-demographic.trycloudflare.com",
-  "uuid": "668c5846-4e6c-449e-995b-ab929239b4cb",
-  "path": "/1a39e630fe8c85e4beac4d96c2d7d100",
+  "vless_uri": "vless://a4a435f8-6db2-4774-a405-ff0cb76c05d5@bits-installed-exercise-wanna.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bits-installed-exercise-wanna.trycloudflare.com&path=/e2ee30d6bb8d60682d9ae99d76155871&sni=bits-installed-exercise-wanna.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://bits-installed-exercise-wanna.trycloudflare.com",
+  "host": "bits-installed-exercise-wanna.trycloudflare.com",
+  "uuid": "a4a435f8-6db2-4774-a405-ff0cb76c05d5",
+  "path": "/e2ee30d6bb8d60682d9ae99d76155871",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "enclosed-hypothetical-lat-demographic.trycloudflare.com",
+  "sni": "bits-installed-exercise-wanna.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-12T08:26:16Z"
+  "updated_at": "2026-10-12T13:57:00Z"
 }
