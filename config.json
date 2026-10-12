@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://90189d8f-82d8-4250-9873-6b1a2351a182@appear-detect-father-toddler.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=appear-detect-father-toddler.trycloudflare.com&path=/c085636f1d9bd66b52f5ce33ed74aec3&sni=appear-detect-father-toddler.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://appear-detect-father-toddler.trycloudflare.com",
-  "host": "appear-detect-father-toddler.trycloudflare.com",
-  "uuid": "90189d8f-82d8-4250-9873-6b1a2351a182",
-  "path": "/c085636f1d9bd66b52f5ce33ed74aec3",
+  "vless_uri": "vless://7f91843a-5893-4495-bdc9-15344073a7b5@essays-photographer-handles-licensed.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=essays-photographer-handles-licensed.trycloudflare.com&path=/3e6f487f804b8dc41a4406971c00575c&sni=essays-photographer-handles-licensed.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://essays-photographer-handles-licensed.trycloudflare.com",
+  "host": "essays-photographer-handles-licensed.trycloudflare.com",
+  "uuid": "7f91843a-5893-4495-bdc9-15344073a7b5",
+  "path": "/3e6f487f804b8dc41a4406971c00575c",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "appear-detect-father-toddler.trycloudflare.com",
+  "sni": "essays-photographer-handles-licensed.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-11T21:24:54Z"
+  "updated_at": "2026-10-12T02:55:35Z"
 }
