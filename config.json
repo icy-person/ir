@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://493e50bd-62de-4bb1-9b7b-eb9d773a0710@estimates-amp-liz-jessica.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=estimates-amp-liz-jessica.trycloudflare.com&path=/157137a89fb397043d642f8523c8f48c&sni=estimates-amp-liz-jessica.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://estimates-amp-liz-jessica.trycloudflare.com",
-  "host": "estimates-amp-liz-jessica.trycloudflare.com",
-  "uuid": "493e50bd-62de-4bb1-9b7b-eb9d773a0710",
-  "path": "/157137a89fb397043d642f8523c8f48c",
+  "vless_uri": "vless://a6b7e7be-a1fa-4f09-a78a-d8d81defded6@demanding-jam-teenage-optimal.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=demanding-jam-teenage-optimal.trycloudflare.com&path=/8dc5edd32563be2453b1e9f2df6badbf&sni=demanding-jam-teenage-optimal.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://demanding-jam-teenage-optimal.trycloudflare.com",
+  "host": "demanding-jam-teenage-optimal.trycloudflare.com",
+  "uuid": "a6b7e7be-a1fa-4f09-a78a-d8d81defded6",
+  "path": "/8dc5edd32563be2453b1e9f2df6badbf",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "estimates-amp-liz-jessica.trycloudflare.com",
+  "sni": "demanding-jam-teenage-optimal.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-13T11:59:54Z"
+  "updated_at": "2026-10-13T17:30:37Z"
 }

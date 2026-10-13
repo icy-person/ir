@@ -1,1 +1,1 @@
-vless://493e50bd-62de-4bb1-9b7b-eb9d773a0710@estimates-amp-liz-jessica.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=estimates-amp-liz-jessica.trycloudflare.com&path=/157137a89fb397043d642f8523c8f48c&sni=estimates-amp-liz-jessica.trycloudflare.com#GitHub-Xray
+vless://a6b7e7be-a1fa-4f09-a78a-d8d81defded6@demanding-jam-teenage-optimal.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=demanding-jam-teenage-optimal.trycloudflare.com&path=/8dc5edd32563be2453b1e9f2df6badbf&sni=demanding-jam-teenage-optimal.trycloudflare.com#GitHub-Xray
