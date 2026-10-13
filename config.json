@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://4a524c59-ddc2-438e-873b-aea887cc81d9@alto-routine-martin-postcards.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=alto-routine-martin-postcards.trycloudflare.com&path=/d54f4f80bcedc82ef2e81981eea5f888&sni=alto-routine-martin-postcards.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://alto-routine-martin-postcards.trycloudflare.com",
-  "host": "alto-routine-martin-postcards.trycloudflare.com",
-  "uuid": "4a524c59-ddc2-438e-873b-aea887cc81d9",
-  "path": "/d54f4f80bcedc82ef2e81981eea5f888",
+  "vless_uri": "vless://493e50bd-62de-4bb1-9b7b-eb9d773a0710@estimates-amp-liz-jessica.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=estimates-amp-liz-jessica.trycloudflare.com&path=/157137a89fb397043d642f8523c8f48c&sni=estimates-amp-liz-jessica.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://estimates-amp-liz-jessica.trycloudflare.com",
+  "host": "estimates-amp-liz-jessica.trycloudflare.com",
+  "uuid": "493e50bd-62de-4bb1-9b7b-eb9d773a0710",
+  "path": "/157137a89fb397043d642f8523c8f48c",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "alto-routine-martin-postcards.trycloudflare.com",
+  "sni": "estimates-amp-liz-jessica.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-13T06:29:09Z"
+  "updated_at": "2026-10-13T11:59:54Z"
 }
