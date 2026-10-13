@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://b100254b-acbf-4e03-b9e4-0b9b9338d6aa@assumption-place-promotion-leo.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=assumption-place-promotion-leo.trycloudflare.com&path=/d824214bb5f7e8c4624b686ac9d9b201&sni=assumption-place-promotion-leo.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://assumption-place-promotion-leo.trycloudflare.com",
-  "host": "assumption-place-promotion-leo.trycloudflare.com",
-  "uuid": "b100254b-acbf-4e03-b9e4-0b9b9338d6aa",
-  "path": "/d824214bb5f7e8c4624b686ac9d9b201",
+  "vless_uri": "vless://4a524c59-ddc2-438e-873b-aea887cc81d9@alto-routine-martin-postcards.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=alto-routine-martin-postcards.trycloudflare.com&path=/d54f4f80bcedc82ef2e81981eea5f888&sni=alto-routine-martin-postcards.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://alto-routine-martin-postcards.trycloudflare.com",
+  "host": "alto-routine-martin-postcards.trycloudflare.com",
+  "uuid": "4a524c59-ddc2-438e-873b-aea887cc81d9",
+  "path": "/d54f4f80bcedc82ef2e81981eea5f888",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "assumption-place-promotion-leo.trycloudflare.com",
+  "sni": "alto-routine-martin-postcards.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-13T00:58:21Z"
+  "updated_at": "2026-10-13T06:29:09Z"
 }
