@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://a6b7e7be-a1fa-4f09-a78a-d8d81defded6@demanding-jam-teenage-optimal.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=demanding-jam-teenage-optimal.trycloudflare.com&path=/8dc5edd32563be2453b1e9f2df6badbf&sni=demanding-jam-teenage-optimal.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://demanding-jam-teenage-optimal.trycloudflare.com",
-  "host": "demanding-jam-teenage-optimal.trycloudflare.com",
-  "uuid": "a6b7e7be-a1fa-4f09-a78a-d8d81defded6",
-  "path": "/8dc5edd32563be2453b1e9f2df6badbf",
+  "vless_uri": "vless://9a2d5d17-91b6-45ab-ac70-57ca39c88efc@collection-mesa-surrey-fundamental.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=collection-mesa-surrey-fundamental.trycloudflare.com&path=/4fc39e8c9bf234c6631bcec287b34fe4&sni=collection-mesa-surrey-fundamental.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://collection-mesa-surrey-fundamental.trycloudflare.com",
+  "host": "collection-mesa-surrey-fundamental.trycloudflare.com",
+  "uuid": "9a2d5d17-91b6-45ab-ac70-57ca39c88efc",
+  "path": "/4fc39e8c9bf234c6631bcec287b34fe4",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "demanding-jam-teenage-optimal.trycloudflare.com",
+  "sni": "collection-mesa-surrey-fundamental.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-13T17:30:37Z"
+  "updated_at": "2026-10-13T23:01:21Z"
 }
