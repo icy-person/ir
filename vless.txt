@@ -1,1 +1,1 @@
-vless://02983dfb-a91a-4978-a6d7-898d6d3ffe9b@reporter-analytical-does-serve.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=reporter-analytical-does-serve.trycloudflare.com&path=/da5a81d82ea27f7ea7b32b40cca2343b&sni=reporter-analytical-does-serve.trycloudflare.com#GitHub-Xray
+vless://6b79af0b-647b-4bc0-a731-4d98757df33e@bias-searched-clients-hence.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bias-searched-clients-hence.trycloudflare.com&path=/5bebdccabb0945c7a7bf4ca30628e0ca&sni=bias-searched-clients-hence.trycloudflare.com#GitHub-Xray
