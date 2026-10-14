@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://97740922-f61a-45c5-94fc-7e22841a1859@viking-victory-transport-visitors.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=viking-victory-transport-visitors.trycloudflare.com&path=/587fc648b34d190d60b1d53b6b611876&sni=viking-victory-transport-visitors.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://viking-victory-transport-visitors.trycloudflare.com",
-  "host": "viking-victory-transport-visitors.trycloudflare.com",
-  "uuid": "97740922-f61a-45c5-94fc-7e22841a1859",
-  "path": "/587fc648b34d190d60b1d53b6b611876",
+  "vless_uri": "vless://02983dfb-a91a-4978-a6d7-898d6d3ffe9b@reporter-analytical-does-serve.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=reporter-analytical-does-serve.trycloudflare.com&path=/da5a81d82ea27f7ea7b32b40cca2343b&sni=reporter-analytical-does-serve.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://reporter-analytical-does-serve.trycloudflare.com",
+  "host": "reporter-analytical-does-serve.trycloudflare.com",
+  "uuid": "02983dfb-a91a-4978-a6d7-898d6d3ffe9b",
+  "path": "/da5a81d82ea27f7ea7b32b40cca2343b",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "viking-victory-transport-visitors.trycloudflare.com",
+  "sni": "reporter-analytical-does-serve.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-14T10:02:46Z"
+  "updated_at": "2026-10-14T15:33:29Z"
 }
