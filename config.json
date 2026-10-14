@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://034a81c1-1098-438f-ab34-e7ffedc73a34@insight-necklace-diesel-beth.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=insight-necklace-diesel-beth.trycloudflare.com&path=/7e81c91dfa7cca78d5ec9d198a7a7830&sni=insight-necklace-diesel-beth.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://insight-necklace-diesel-beth.trycloudflare.com",
-  "host": "insight-necklace-diesel-beth.trycloudflare.com",
-  "uuid": "034a81c1-1098-438f-ab34-e7ffedc73a34",
-  "path": "/7e81c91dfa7cca78d5ec9d198a7a7830",
+  "vless_uri": "vless://97740922-f61a-45c5-94fc-7e22841a1859@viking-victory-transport-visitors.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=viking-victory-transport-visitors.trycloudflare.com&path=/587fc648b34d190d60b1d53b6b611876&sni=viking-victory-transport-visitors.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://viking-victory-transport-visitors.trycloudflare.com",
+  "host": "viking-victory-transport-visitors.trycloudflare.com",
+  "uuid": "97740922-f61a-45c5-94fc-7e22841a1859",
+  "path": "/587fc648b34d190d60b1d53b6b611876",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "insight-necklace-diesel-beth.trycloudflare.com",
+  "sni": "viking-victory-transport-visitors.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-14T04:32:01Z"
+  "updated_at": "2026-10-14T10:02:46Z"
 }
