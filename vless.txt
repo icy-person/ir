@@ -1,1 +1,1 @@
-vless://35166829-c46b-4f0a-b4f9-630dcc2ef973@space-kong-begins-lounge.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=space-kong-begins-lounge.trycloudflare.com&path=/bf6948fb6c65f549102ed57d165aefa5&sni=space-kong-begins-lounge.trycloudflare.com#GitHub-Xray
+vless://9eb62dae-1cac-41d7-a8f8-43391091e2b1@level-allan-rain-dark.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=level-allan-rain-dark.trycloudflare.com&path=/f8cde51493fab8b00d4f58b96d3bcec2&sni=level-allan-rain-dark.trycloudflare.com#GitHub-Xray
