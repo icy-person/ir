@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://9c0470d9-db2a-4ce2-9992-2fb0db08af4c@flash-somewhere-around-tablets.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=flash-somewhere-around-tablets.trycloudflare.com&path=/a2f915aa2912a19b456a9285b44b2da0&sni=flash-somewhere-around-tablets.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://flash-somewhere-around-tablets.trycloudflare.com",
-  "host": "flash-somewhere-around-tablets.trycloudflare.com",
-  "uuid": "9c0470d9-db2a-4ce2-9992-2fb0db08af4c",
-  "path": "/a2f915aa2912a19b456a9285b44b2da0",
+  "vless_uri": "vless://35166829-c46b-4f0a-b4f9-630dcc2ef973@space-kong-begins-lounge.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=space-kong-begins-lounge.trycloudflare.com&path=/bf6948fb6c65f549102ed57d165aefa5&sni=space-kong-begins-lounge.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://space-kong-begins-lounge.trycloudflare.com",
+  "host": "space-kong-begins-lounge.trycloudflare.com",
+  "uuid": "35166829-c46b-4f0a-b4f9-630dcc2ef973",
+  "path": "/bf6948fb6c65f549102ed57d165aefa5",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "flash-somewhere-around-tablets.trycloudflare.com",
+  "sni": "space-kong-begins-lounge.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-15T02:35:03Z"
+  "updated_at": "2026-10-15T08:05:47Z"
 }
