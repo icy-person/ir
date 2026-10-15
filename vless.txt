@@ -1,1 +1,1 @@
-vless://6b79af0b-647b-4bc0-a731-4d98757df33e@bias-searched-clients-hence.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=bias-searched-clients-hence.trycloudflare.com&path=/5bebdccabb0945c7a7bf4ca30628e0ca&sni=bias-searched-clients-hence.trycloudflare.com#GitHub-Xray
+vless://9c0470d9-db2a-4ce2-9992-2fb0db08af4c@flash-somewhere-around-tablets.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=flash-somewhere-around-tablets.trycloudflare.com&path=/a2f915aa2912a19b456a9285b44b2da0&sni=flash-somewhere-around-tablets.trycloudflare.com#GitHub-Xray
