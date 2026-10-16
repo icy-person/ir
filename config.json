@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://59f1326a-b79b-4df3-adb1-e99f7a25aa72@popular-testimonials-toe-effect.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=popular-testimonials-toe-effect.trycloudflare.com&path=/4d5817aa7720471e0d19274af6519d01&sni=popular-testimonials-toe-effect.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://popular-testimonials-toe-effect.trycloudflare.com",
-  "host": "popular-testimonials-toe-effect.trycloudflare.com",
-  "uuid": "59f1326a-b79b-4df3-adb1-e99f7a25aa72",
-  "path": "/4d5817aa7720471e0d19274af6519d01",
+  "vless_uri": "vless://eef6e6de-a918-48a5-bcec-5b040a391f9b@rental-scientific-forecasts-concord.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=rental-scientific-forecasts-concord.trycloudflare.com&path=/3f6b10a1ef8afdc4e85ec30939a78283&sni=rental-scientific-forecasts-concord.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://rental-scientific-forecasts-concord.trycloudflare.com",
+  "host": "rental-scientific-forecasts-concord.trycloudflare.com",
+  "uuid": "eef6e6de-a918-48a5-bcec-5b040a391f9b",
+  "path": "/3f6b10a1ef8afdc4e85ec30939a78283",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "popular-testimonials-toe-effect.trycloudflare.com",
+  "sni": "rental-scientific-forecasts-concord.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-16T06:09:13Z"
+  "updated_at": "2026-10-16T11:39:55Z"
 }
