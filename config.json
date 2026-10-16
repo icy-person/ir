@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://a0502518-2b60-49f8-a33d-d11718a61972@references-inbox-camps-combining.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=references-inbox-camps-combining.trycloudflare.com&path=/980e7afc2e8ef6a34e3aed42808f2f02&sni=references-inbox-camps-combining.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://references-inbox-camps-combining.trycloudflare.com",
-  "host": "references-inbox-camps-combining.trycloudflare.com",
-  "uuid": "a0502518-2b60-49f8-a33d-d11718a61972",
-  "path": "/980e7afc2e8ef6a34e3aed42808f2f02",
+  "vless_uri": "vless://de7594a2-dcb0-4b34-970e-8d386aa1ce52@champagne-citizen-advances-zone.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=champagne-citizen-advances-zone.trycloudflare.com&path=/f4671dc727fe60130001b56b01682f4a&sni=champagne-citizen-advances-zone.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://champagne-citizen-advances-zone.trycloudflare.com",
+  "host": "champagne-citizen-advances-zone.trycloudflare.com",
+  "uuid": "de7594a2-dcb0-4b34-970e-8d386aa1ce52",
+  "path": "/f4671dc727fe60130001b56b01682f4a",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "references-inbox-camps-combining.trycloudflare.com",
+  "sni": "champagne-citizen-advances-zone.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-16T17:10:38Z"
+  "updated_at": "2026-10-16T22:41:19Z"
 }
