@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://cadd23e3-7432-4e18-9884-ade025638e9b@shoes-cleaning-issues-permissions.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=shoes-cleaning-issues-permissions.trycloudflare.com&path=/2d815109aa699cd0197384909a755a1f&sni=shoes-cleaning-issues-permissions.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://shoes-cleaning-issues-permissions.trycloudflare.com",
-  "host": "shoes-cleaning-issues-permissions.trycloudflare.com",
-  "uuid": "cadd23e3-7432-4e18-9884-ade025638e9b",
-  "path": "/2d815109aa699cd0197384909a755a1f",
+  "vless_uri": "vless://473e2b42-fa21-472c-ac79-5f8ff6450cd9@activated-shadow-taxation-genuine.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=activated-shadow-taxation-genuine.trycloudflare.com&path=/369aa556bd63ec9981118fe28b93aa1a&sni=activated-shadow-taxation-genuine.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://activated-shadow-taxation-genuine.trycloudflare.com",
+  "host": "activated-shadow-taxation-genuine.trycloudflare.com",
+  "uuid": "473e2b42-fa21-472c-ac79-5f8ff6450cd9",
+  "path": "/369aa556bd63ec9981118fe28b93aa1a",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "shoes-cleaning-issues-permissions.trycloudflare.com",
+  "sni": "activated-shadow-taxation-genuine.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-17T04:12:01Z"
+  "updated_at": "2026-10-17T09:42:41Z"
 }
