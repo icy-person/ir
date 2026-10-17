@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://473e2b42-fa21-472c-ac79-5f8ff6450cd9@activated-shadow-taxation-genuine.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=activated-shadow-taxation-genuine.trycloudflare.com&path=/369aa556bd63ec9981118fe28b93aa1a&sni=activated-shadow-taxation-genuine.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://activated-shadow-taxation-genuine.trycloudflare.com",
-  "host": "activated-shadow-taxation-genuine.trycloudflare.com",
-  "uuid": "473e2b42-fa21-472c-ac79-5f8ff6450cd9",
-  "path": "/369aa556bd63ec9981118fe28b93aa1a",
+  "vless_uri": "vless://afb38b6d-b001-46cc-9ea1-4dbcec8268c3@marker-budget-teachers-mere.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=marker-budget-teachers-mere.trycloudflare.com&path=/aba0d8a1b8dc9abf7a0f1dfce88c5136&sni=marker-budget-teachers-mere.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://marker-budget-teachers-mere.trycloudflare.com",
+  "host": "marker-budget-teachers-mere.trycloudflare.com",
+  "uuid": "afb38b6d-b001-46cc-9ea1-4dbcec8268c3",
+  "path": "/aba0d8a1b8dc9abf7a0f1dfce88c5136",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "activated-shadow-taxation-genuine.trycloudflare.com",
+  "sni": "marker-budget-teachers-mere.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-17T09:42:41Z"
+  "updated_at": "2026-10-17T15:13:25Z"
 }
