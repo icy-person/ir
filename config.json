@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://84e9083b-55c7-4883-a3fc-d2bee45eaeda@ringtones-boxing-singer-scanning.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=ringtones-boxing-singer-scanning.trycloudflare.com&path=/5c565a3c03b8ebf3ffbae051e0470935&sni=ringtones-boxing-singer-scanning.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://ringtones-boxing-singer-scanning.trycloudflare.com",
-  "host": "ringtones-boxing-singer-scanning.trycloudflare.com",
-  "uuid": "84e9083b-55c7-4883-a3fc-d2bee45eaeda",
-  "path": "/5c565a3c03b8ebf3ffbae051e0470935",
+  "vless_uri": "vless://78014ce9-a186-4fba-b43a-33b93733a41e@waiting-railway-phpbb-him.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=waiting-railway-phpbb-him.trycloudflare.com&path=/7d71a7bbf21c8d1b8886f35ef703f6f6&sni=waiting-railway-phpbb-him.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://waiting-railway-phpbb-him.trycloudflare.com",
+  "host": "waiting-railway-phpbb-him.trycloudflare.com",
+  "uuid": "78014ce9-a186-4fba-b43a-33b93733a41e",
+  "path": "/7d71a7bbf21c8d1b8886f35ef703f6f6",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "ringtones-boxing-singer-scanning.trycloudflare.com",
+  "sni": "waiting-railway-phpbb-him.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-18T07:46:13Z"
+  "updated_at": "2026-10-18T13:17:03Z"
 }
