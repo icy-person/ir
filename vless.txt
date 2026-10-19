@@ -1,1 +1,1 @@
-vless://35cd2695-17c0-4d92-9257-74b1669437e2@warranty-cite-style-ourselves.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=warranty-cite-style-ourselves.trycloudflare.com&path=/610da192154b0ed7830ea6fdb1b215b5&sni=warranty-cite-style-ourselves.trycloudflare.com#GitHub-Xray
+vless://58126b1c-4b9b-47b7-a7e9-9db8cf4c4b04@highly-zen-birmingham-cruz.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=highly-zen-birmingham-cruz.trycloudflare.com&path=/ba87a3545202683718e5f2a385cb4f75&sni=highly-zen-birmingham-cruz.trycloudflare.com#GitHub-Xray
