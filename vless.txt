@@ -1,1 +1,1 @@
-vless://78014ce9-a186-4fba-b43a-33b93733a41e@waiting-railway-phpbb-him.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=waiting-railway-phpbb-him.trycloudflare.com&path=/7d71a7bbf21c8d1b8886f35ef703f6f6&sni=waiting-railway-phpbb-him.trycloudflare.com#GitHub-Xray
+vless://35cd2695-17c0-4d92-9257-74b1669437e2@warranty-cite-style-ourselves.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=warranty-cite-style-ourselves.trycloudflare.com&path=/610da192154b0ed7830ea6fdb1b215b5&sni=warranty-cite-style-ourselves.trycloudflare.com#GitHub-Xray
