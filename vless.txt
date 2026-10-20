@@ -1,1 +1,1 @@
-vless://58126b1c-4b9b-47b7-a7e9-9db8cf4c4b04@highly-zen-birmingham-cruz.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=highly-zen-birmingham-cruz.trycloudflare.com&path=/ba87a3545202683718e5f2a385cb4f75&sni=highly-zen-birmingham-cruz.trycloudflare.com#GitHub-Xray
+vless://74950585-8352-4049-a053-b8d033093d2b@candles-influenced-fin-excellent.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=candles-influenced-fin-excellent.trycloudflare.com&path=/4c7bfbccb9edaf611dbb788344edaa89&sni=candles-influenced-fin-excellent.trycloudflare.com#GitHub-Xray
