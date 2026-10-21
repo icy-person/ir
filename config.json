@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://dc46fb86-491c-4d93-8c6d-754980b33893@aurora-kim-oils-sail.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=aurora-kim-oils-sail.trycloudflare.com&path=/e8360da1830e80a25441df97ac82dc53&sni=aurora-kim-oils-sail.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://aurora-kim-oils-sail.trycloudflare.com",
-  "host": "aurora-kim-oils-sail.trycloudflare.com",
-  "uuid": "dc46fb86-491c-4d93-8c6d-754980b33893",
-  "path": "/e8360da1830e80a25441df97ac82dc53",
+  "vless_uri": "vless://3ec89262-db07-4d5c-bee0-df904d8f9b50@acknowledge-recommendation-tower-reynolds.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=acknowledge-recommendation-tower-reynolds.trycloudflare.com&path=/9dbffa2a0c410edd6f2a95764a3cbd3d&sni=acknowledge-recommendation-tower-reynolds.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://acknowledge-recommendation-tower-reynolds.trycloudflare.com",
+  "host": "acknowledge-recommendation-tower-reynolds.trycloudflare.com",
+  "uuid": "3ec89262-db07-4d5c-bee0-df904d8f9b50",
+  "path": "/9dbffa2a0c410edd6f2a95764a3cbd3d",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "aurora-kim-oils-sail.trycloudflare.com",
+  "sni": "acknowledge-recommendation-tower-reynolds.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-21T17:05:17Z"
+  "updated_at": "2026-10-21T22:36:00Z"
 }
