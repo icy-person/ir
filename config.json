@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://405e45bd-73d1-4e3f-8dbc-b02772fa929a@exercise-substance-guestbook-shorter.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=exercise-substance-guestbook-shorter.trycloudflare.com&path=/0a5b38f93fe7c35b24b0edb576a3adc0&sni=exercise-substance-guestbook-shorter.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://exercise-substance-guestbook-shorter.trycloudflare.com",
-  "host": "exercise-substance-guestbook-shorter.trycloudflare.com",
-  "uuid": "405e45bd-73d1-4e3f-8dbc-b02772fa929a",
-  "path": "/0a5b38f93fe7c35b24b0edb576a3adc0",
+  "vless_uri": "vless://95aecc6b-0aa5-470b-b92d-3e3c6cc1a0b4@internal-ways-gmbh-richmond.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=internal-ways-gmbh-richmond.trycloudflare.com&path=/df2f968e76c25353c3cf7f5e0b5da3d0&sni=internal-ways-gmbh-richmond.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://internal-ways-gmbh-richmond.trycloudflare.com",
+  "host": "internal-ways-gmbh-richmond.trycloudflare.com",
+  "uuid": "95aecc6b-0aa5-470b-b92d-3e3c6cc1a0b4",
+  "path": "/df2f968e76c25353c3cf7f5e0b5da3d0",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "exercise-substance-guestbook-shorter.trycloudflare.com",
+  "sni": "internal-ways-gmbh-richmond.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-21T00:33:10Z"
+  "updated_at": "2026-10-21T06:03:54Z"
 }
