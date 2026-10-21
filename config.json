@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://e7506660-7b66-489a-9bf2-f4c3e6c83337@raised-basic-regards-nasa.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=raised-basic-regards-nasa.trycloudflare.com&path=/70c51011b0c4ba7360532d8f986436cb&sni=raised-basic-regards-nasa.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://raised-basic-regards-nasa.trycloudflare.com",
-  "host": "raised-basic-regards-nasa.trycloudflare.com",
-  "uuid": "e7506660-7b66-489a-9bf2-f4c3e6c83337",
-  "path": "/70c51011b0c4ba7360532d8f986436cb",
+  "vless_uri": "vless://dc46fb86-491c-4d93-8c6d-754980b33893@aurora-kim-oils-sail.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=aurora-kim-oils-sail.trycloudflare.com&path=/e8360da1830e80a25441df97ac82dc53&sni=aurora-kim-oils-sail.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://aurora-kim-oils-sail.trycloudflare.com",
+  "host": "aurora-kim-oils-sail.trycloudflare.com",
+  "uuid": "dc46fb86-491c-4d93-8c6d-754980b33893",
+  "path": "/e8360da1830e80a25441df97ac82dc53",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "raised-basic-regards-nasa.trycloudflare.com",
+  "sni": "aurora-kim-oils-sail.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-21T11:34:31Z"
+  "updated_at": "2026-10-21T17:05:17Z"
 }
