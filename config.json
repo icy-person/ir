@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://95aecc6b-0aa5-470b-b92d-3e3c6cc1a0b4@internal-ways-gmbh-richmond.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=internal-ways-gmbh-richmond.trycloudflare.com&path=/df2f968e76c25353c3cf7f5e0b5da3d0&sni=internal-ways-gmbh-richmond.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://internal-ways-gmbh-richmond.trycloudflare.com",
-  "host": "internal-ways-gmbh-richmond.trycloudflare.com",
-  "uuid": "95aecc6b-0aa5-470b-b92d-3e3c6cc1a0b4",
-  "path": "/df2f968e76c25353c3cf7f5e0b5da3d0",
+  "vless_uri": "vless://e7506660-7b66-489a-9bf2-f4c3e6c83337@raised-basic-regards-nasa.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=raised-basic-regards-nasa.trycloudflare.com&path=/70c51011b0c4ba7360532d8f986436cb&sni=raised-basic-regards-nasa.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://raised-basic-regards-nasa.trycloudflare.com",
+  "host": "raised-basic-regards-nasa.trycloudflare.com",
+  "uuid": "e7506660-7b66-489a-9bf2-f4c3e6c83337",
+  "path": "/70c51011b0c4ba7360532d8f986436cb",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "internal-ways-gmbh-richmond.trycloudflare.com",
+  "sni": "raised-basic-regards-nasa.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-21T06:03:54Z"
+  "updated_at": "2026-10-21T11:34:31Z"
 }
