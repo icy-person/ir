@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://1c6ba297-d34c-4645-85c6-97cd81b85250@karma-organizing-ingredients-nec.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=karma-organizing-ingredients-nec.trycloudflare.com&path=/1c115c2c92fd627976203fba8fdbfacc&sni=karma-organizing-ingredients-nec.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://karma-organizing-ingredients-nec.trycloudflare.com",
-  "host": "karma-organizing-ingredients-nec.trycloudflare.com",
-  "uuid": "1c6ba297-d34c-4645-85c6-97cd81b85250",
-  "path": "/1c115c2c92fd627976203fba8fdbfacc",
+  "vless_uri": "vless://405e45bd-73d1-4e3f-8dbc-b02772fa929a@exercise-substance-guestbook-shorter.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=exercise-substance-guestbook-shorter.trycloudflare.com&path=/0a5b38f93fe7c35b24b0edb576a3adc0&sni=exercise-substance-guestbook-shorter.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://exercise-substance-guestbook-shorter.trycloudflare.com",
+  "host": "exercise-substance-guestbook-shorter.trycloudflare.com",
+  "uuid": "405e45bd-73d1-4e3f-8dbc-b02772fa929a",
+  "path": "/0a5b38f93fe7c35b24b0edb576a3adc0",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "karma-organizing-ingredients-nec.trycloudflare.com",
+  "sni": "exercise-substance-guestbook-shorter.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-20T19:02:29Z"
+  "updated_at": "2026-10-21T00:33:10Z"
 }
