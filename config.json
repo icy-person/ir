@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://5c7b19f2-8df8-4d10-9673-6d733cd49597@specialist-penalties-concerning-kilometers.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=specialist-penalties-concerning-kilometers.trycloudflare.com&path=/73518f7cb488a2d2799fb84e1d9f5404&sni=specialist-penalties-concerning-kilometers.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://specialist-penalties-concerning-kilometers.trycloudflare.com",
-  "host": "specialist-penalties-concerning-kilometers.trycloudflare.com",
-  "uuid": "5c7b19f2-8df8-4d10-9673-6d733cd49597",
-  "path": "/73518f7cb488a2d2799fb84e1d9f5404",
+  "vless_uri": "vless://5f998555-5ac0-457b-9683-27aa9875ee96@presentations-est-momentum-authors.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=presentations-est-momentum-authors.trycloudflare.com&path=/73b170d33bfd5853a5319b1cddaad89d&sni=presentations-est-momentum-authors.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://presentations-est-momentum-authors.trycloudflare.com",
+  "host": "presentations-est-momentum-authors.trycloudflare.com",
+  "uuid": "5f998555-5ac0-457b-9683-27aa9875ee96",
+  "path": "/73b170d33bfd5853a5319b1cddaad89d",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "specialist-penalties-concerning-kilometers.trycloudflare.com",
+  "sni": "presentations-est-momentum-authors.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-22T15:08:26Z"
+  "updated_at": "2026-10-22T20:40:23Z"
 }
