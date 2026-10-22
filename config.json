@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://ab89b161-83c5-4640-95ad-b3c82882a634@beads-sword-entities-acceptable.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=beads-sword-entities-acceptable.trycloudflare.com&path=/16b723e6de76bff0158ad2967be5575b&sni=beads-sword-entities-acceptable.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://beads-sword-entities-acceptable.trycloudflare.com",
-  "host": "beads-sword-entities-acceptable.trycloudflare.com",
-  "uuid": "ab89b161-83c5-4640-95ad-b3c82882a634",
-  "path": "/16b723e6de76bff0158ad2967be5575b",
+  "vless_uri": "vless://5c7b19f2-8df8-4d10-9673-6d733cd49597@specialist-penalties-concerning-kilometers.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=specialist-penalties-concerning-kilometers.trycloudflare.com&path=/73518f7cb488a2d2799fb84e1d9f5404&sni=specialist-penalties-concerning-kilometers.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://specialist-penalties-concerning-kilometers.trycloudflare.com",
+  "host": "specialist-penalties-concerning-kilometers.trycloudflare.com",
+  "uuid": "5c7b19f2-8df8-4d10-9673-6d733cd49597",
+  "path": "/73518f7cb488a2d2799fb84e1d9f5404",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "beads-sword-entities-acceptable.trycloudflare.com",
+  "sni": "specialist-penalties-concerning-kilometers.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-22T09:37:30Z"
+  "updated_at": "2026-10-22T15:08:26Z"
 }
