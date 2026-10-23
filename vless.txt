@@ -1,1 +1,1 @@
-vless://71921044-ba60-41ed-8ae3-0c46f4cb30a2@glass-kissing-urls-speech.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=glass-kissing-urls-speech.trycloudflare.com&path=/128e1a7f9d361da30c0b37454679f9a7&sni=glass-kissing-urls-speech.trycloudflare.com#GitHub-Xray
+vless://f4017a4b-9d31-4735-a20f-a7b10793e767@begun-soft-kills-expanding.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=begun-soft-kills-expanding.trycloudflare.com&path=/14fb6d65f3d65ef51fe75eb19e464cdf&sni=begun-soft-kills-expanding.trycloudflare.com#GitHub-Xray
