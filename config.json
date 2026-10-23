@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://f4017a4b-9d31-4735-a20f-a7b10793e767@begun-soft-kills-expanding.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=begun-soft-kills-expanding.trycloudflare.com&path=/14fb6d65f3d65ef51fe75eb19e464cdf&sni=begun-soft-kills-expanding.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://begun-soft-kills-expanding.trycloudflare.com",
-  "host": "begun-soft-kills-expanding.trycloudflare.com",
-  "uuid": "f4017a4b-9d31-4735-a20f-a7b10793e767",
-  "path": "/14fb6d65f3d65ef51fe75eb19e464cdf",
+  "vless_uri": "vless://037b0f77-6f7b-41f7-a12a-ea6ce454bc72@lake-justify-stats-noble.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=lake-justify-stats-noble.trycloudflare.com&path=/52337edd24a6b1f3298787e285bcd414&sni=lake-justify-stats-noble.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://lake-justify-stats-noble.trycloudflare.com",
+  "host": "lake-justify-stats-noble.trycloudflare.com",
+  "uuid": "037b0f77-6f7b-41f7-a12a-ea6ce454bc72",
+  "path": "/52337edd24a6b1f3298787e285bcd414",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "begun-soft-kills-expanding.trycloudflare.com",
+  "sni": "lake-justify-stats-noble.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-23T07:41:49Z"
+  "updated_at": "2026-10-23T13:12:59Z"
 }
