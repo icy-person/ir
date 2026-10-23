@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://5f998555-5ac0-457b-9683-27aa9875ee96@presentations-est-momentum-authors.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=presentations-est-momentum-authors.trycloudflare.com&path=/73b170d33bfd5853a5319b1cddaad89d&sni=presentations-est-momentum-authors.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://presentations-est-momentum-authors.trycloudflare.com",
-  "host": "presentations-est-momentum-authors.trycloudflare.com",
-  "uuid": "5f998555-5ac0-457b-9683-27aa9875ee96",
-  "path": "/73b170d33bfd5853a5319b1cddaad89d",
+  "vless_uri": "vless://71921044-ba60-41ed-8ae3-0c46f4cb30a2@glass-kissing-urls-speech.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=glass-kissing-urls-speech.trycloudflare.com&path=/128e1a7f9d361da30c0b37454679f9a7&sni=glass-kissing-urls-speech.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://glass-kissing-urls-speech.trycloudflare.com",
+  "host": "glass-kissing-urls-speech.trycloudflare.com",
+  "uuid": "71921044-ba60-41ed-8ae3-0c46f4cb30a2",
+  "path": "/128e1a7f9d361da30c0b37454679f9a7",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "presentations-est-momentum-authors.trycloudflare.com",
+  "sni": "glass-kissing-urls-speech.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-22T20:40:23Z"
+  "updated_at": "2026-10-23T02:11:08Z"
 }
