@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://037b0f77-6f7b-41f7-a12a-ea6ce454bc72@lake-justify-stats-noble.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=lake-justify-stats-noble.trycloudflare.com&path=/52337edd24a6b1f3298787e285bcd414&sni=lake-justify-stats-noble.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://lake-justify-stats-noble.trycloudflare.com",
-  "host": "lake-justify-stats-noble.trycloudflare.com",
-  "uuid": "037b0f77-6f7b-41f7-a12a-ea6ce454bc72",
-  "path": "/52337edd24a6b1f3298787e285bcd414",
+  "vless_uri": "vless://38c50e9d-8b9c-48e0-802b-3f5967eff902@newbie-spice-wholesale-traditional.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=newbie-spice-wholesale-traditional.trycloudflare.com&path=/97b34170012f925afad465d436cd5ed2&sni=newbie-spice-wholesale-traditional.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://newbie-spice-wholesale-traditional.trycloudflare.com",
+  "host": "newbie-spice-wholesale-traditional.trycloudflare.com",
+  "uuid": "38c50e9d-8b9c-48e0-802b-3f5967eff902",
+  "path": "/97b34170012f925afad465d436cd5ed2",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "lake-justify-stats-noble.trycloudflare.com",
+  "sni": "newbie-spice-wholesale-traditional.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-23T13:12:59Z"
+  "updated_at": "2026-10-23T18:43:53Z"
 }
