@@ -1,1 +1,1 @@
-vless://1b1409ab-34f1-4013-b701-17551bfae2e6@term-canvas-older-light.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=term-canvas-older-light.trycloudflare.com&path=/5ec38d084bac418f831a76f7e0160bd8&sni=term-canvas-older-light.trycloudflare.com#GitHub-Xray
+vless://6bcc3c22-6dc1-4d30-955b-ce24af6d496f@other-amendments-spencer-logistics.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=other-amendments-spencer-logistics.trycloudflare.com&path=/a112c1ba25f246b481cd154245d734fe&sni=other-amendments-spencer-logistics.trycloudflare.com#GitHub-Xray
