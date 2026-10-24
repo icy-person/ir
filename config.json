@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://38c50e9d-8b9c-48e0-802b-3f5967eff902@newbie-spice-wholesale-traditional.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=newbie-spice-wholesale-traditional.trycloudflare.com&path=/97b34170012f925afad465d436cd5ed2&sni=newbie-spice-wholesale-traditional.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://newbie-spice-wholesale-traditional.trycloudflare.com",
-  "host": "newbie-spice-wholesale-traditional.trycloudflare.com",
-  "uuid": "38c50e9d-8b9c-48e0-802b-3f5967eff902",
-  "path": "/97b34170012f925afad465d436cd5ed2",
+  "vless_uri": "vless://1b1409ab-34f1-4013-b701-17551bfae2e6@term-canvas-older-light.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=term-canvas-older-light.trycloudflare.com&path=/5ec38d084bac418f831a76f7e0160bd8&sni=term-canvas-older-light.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://term-canvas-older-light.trycloudflare.com",
+  "host": "term-canvas-older-light.trycloudflare.com",
+  "uuid": "1b1409ab-34f1-4013-b701-17551bfae2e6",
+  "path": "/5ec38d084bac418f831a76f7e0160bd8",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "newbie-spice-wholesale-traditional.trycloudflare.com",
+  "sni": "term-canvas-older-light.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-23T18:43:53Z"
+  "updated_at": "2026-10-24T00:14:51Z"
 }
