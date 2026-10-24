@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://6bcc3c22-6dc1-4d30-955b-ce24af6d496f@other-amendments-spencer-logistics.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=other-amendments-spencer-logistics.trycloudflare.com&path=/a112c1ba25f246b481cd154245d734fe&sni=other-amendments-spencer-logistics.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://other-amendments-spencer-logistics.trycloudflare.com",
-  "host": "other-amendments-spencer-logistics.trycloudflare.com",
-  "uuid": "6bcc3c22-6dc1-4d30-955b-ce24af6d496f",
-  "path": "/a112c1ba25f246b481cd154245d734fe",
+  "vless_uri": "vless://8dc9996d-dd14-4496-b152-ef1b5b5734ea@lean-girls-advertising-fold.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=lean-girls-advertising-fold.trycloudflare.com&path=/b5430164e407a24d253893ea0943d3d4&sni=lean-girls-advertising-fold.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://lean-girls-advertising-fold.trycloudflare.com",
+  "host": "lean-girls-advertising-fold.trycloudflare.com",
+  "uuid": "8dc9996d-dd14-4496-b152-ef1b5b5734ea",
+  "path": "/b5430164e407a24d253893ea0943d3d4",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "other-amendments-spencer-logistics.trycloudflare.com",
+  "sni": "lean-girls-advertising-fold.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-24T05:45:40Z"
+  "updated_at": "2026-10-24T11:16:24Z"
 }
