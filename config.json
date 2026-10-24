@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://23aa23b7-cd62-4003-8b1e-747e9a5d29a6@wishes-powered-gospel-all.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=wishes-powered-gospel-all.trycloudflare.com&path=/e16467ff9389940d8c80a1889b2e67ad&sni=wishes-powered-gospel-all.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://wishes-powered-gospel-all.trycloudflare.com",
-  "host": "wishes-powered-gospel-all.trycloudflare.com",
-  "uuid": "23aa23b7-cd62-4003-8b1e-747e9a5d29a6",
-  "path": "/e16467ff9389940d8c80a1889b2e67ad",
+  "vless_uri": "vless://8c388b8f-d4b7-49aa-aefe-52d50f35f8f0@exp-schema-here-hdtv.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=exp-schema-here-hdtv.trycloudflare.com&path=/f1f922c1bf1b432ec163022fee975c5e&sni=exp-schema-here-hdtv.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://exp-schema-here-hdtv.trycloudflare.com",
+  "host": "exp-schema-here-hdtv.trycloudflare.com",
+  "uuid": "8c388b8f-d4b7-49aa-aefe-52d50f35f8f0",
+  "path": "/f1f922c1bf1b432ec163022fee975c5e",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "wishes-powered-gospel-all.trycloudflare.com",
+  "sni": "exp-schema-here-hdtv.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-24T16:47:05Z"
+  "updated_at": "2026-10-24T22:17:56Z"
 }
