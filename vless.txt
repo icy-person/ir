@@ -1,1 +1,1 @@
-vless://8dc9996d-dd14-4496-b152-ef1b5b5734ea@lean-girls-advertising-fold.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=lean-girls-advertising-fold.trycloudflare.com&path=/b5430164e407a24d253893ea0943d3d4&sni=lean-girls-advertising-fold.trycloudflare.com#GitHub-Xray
+vless://23aa23b7-cd62-4003-8b1e-747e9a5d29a6@wishes-powered-gospel-all.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=wishes-powered-gospel-all.trycloudflare.com&path=/e16467ff9389940d8c80a1889b2e67ad&sni=wishes-powered-gospel-all.trycloudflare.com#GitHub-Xray
