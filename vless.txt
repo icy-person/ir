@@ -1,1 +1,1 @@
-vless://a298e7cd-17ad-47be-8a21-8da964b02e87@probe-animation-rio-calm.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=probe-animation-rio-calm.trycloudflare.com&path=/e80b2eb13687cd23eae5d1748b070ea0&sni=probe-animation-rio-calm.trycloudflare.com#GitHub-Xray
+vless://23f8a63a-66b7-4601-8728-90f3d9ef334c@relocation-click-loops-eyed.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=relocation-click-loops-eyed.trycloudflare.com&path=/8de4142fd0321c664403df440c1fe50b&sni=relocation-click-loops-eyed.trycloudflare.com#GitHub-Xray
