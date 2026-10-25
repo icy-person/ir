@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://23f8a63a-66b7-4601-8728-90f3d9ef334c@relocation-click-loops-eyed.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=relocation-click-loops-eyed.trycloudflare.com&path=/8de4142fd0321c664403df440c1fe50b&sni=relocation-click-loops-eyed.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://relocation-click-loops-eyed.trycloudflare.com",
-  "host": "relocation-click-loops-eyed.trycloudflare.com",
-  "uuid": "23f8a63a-66b7-4601-8728-90f3d9ef334c",
-  "path": "/8de4142fd0321c664403df440c1fe50b",
+  "vless_uri": "vless://ed54b5f5-62f3-4709-915c-c37fb69620bf@verde-according-usb-runs.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=verde-according-usb-runs.trycloudflare.com&path=/2ac183a14885f31f1d8a106fc4dcb775&sni=verde-according-usb-runs.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://verde-according-usb-runs.trycloudflare.com",
+  "host": "verde-according-usb-runs.trycloudflare.com",
+  "uuid": "ed54b5f5-62f3-4709-915c-c37fb69620bf",
+  "path": "/2ac183a14885f31f1d8a106fc4dcb775",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "relocation-click-loops-eyed.trycloudflare.com",
+  "sni": "verde-according-usb-runs.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-25T09:19:23Z"
+  "updated_at": "2026-10-25T14:50:16Z"
 }
