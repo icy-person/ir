@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://8c388b8f-d4b7-49aa-aefe-52d50f35f8f0@exp-schema-here-hdtv.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=exp-schema-here-hdtv.trycloudflare.com&path=/f1f922c1bf1b432ec163022fee975c5e&sni=exp-schema-here-hdtv.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://exp-schema-here-hdtv.trycloudflare.com",
-  "host": "exp-schema-here-hdtv.trycloudflare.com",
-  "uuid": "8c388b8f-d4b7-49aa-aefe-52d50f35f8f0",
-  "path": "/f1f922c1bf1b432ec163022fee975c5e",
+  "vless_uri": "vless://a298e7cd-17ad-47be-8a21-8da964b02e87@probe-animation-rio-calm.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=probe-animation-rio-calm.trycloudflare.com&path=/e80b2eb13687cd23eae5d1748b070ea0&sni=probe-animation-rio-calm.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://probe-animation-rio-calm.trycloudflare.com",
+  "host": "probe-animation-rio-calm.trycloudflare.com",
+  "uuid": "a298e7cd-17ad-47be-8a21-8da964b02e87",
+  "path": "/e80b2eb13687cd23eae5d1748b070ea0",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "exp-schema-here-hdtv.trycloudflare.com",
+  "sni": "probe-animation-rio-calm.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-24T22:17:56Z"
+  "updated_at": "2026-10-25T03:48:38Z"
 }
