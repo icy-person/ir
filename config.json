@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://62045514-7b26-4ae9-a9ad-1fd4f52a5ee5@intended-kelkoo-refrigerator-underground.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=intended-kelkoo-refrigerator-underground.trycloudflare.com&path=/f01cdd918802daffdf090bc46c48a209&sni=intended-kelkoo-refrigerator-underground.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://intended-kelkoo-refrigerator-underground.trycloudflare.com",
-  "host": "intended-kelkoo-refrigerator-underground.trycloudflare.com",
-  "uuid": "62045514-7b26-4ae9-a9ad-1fd4f52a5ee5",
-  "path": "/f01cdd918802daffdf090bc46c48a209",
+  "vless_uri": "vless://e4e54f88-ace8-49ea-8d4a-48ece1a0edb5@reel-tagged-army-sail.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=reel-tagged-army-sail.trycloudflare.com&path=/1a8d7175183e2b3518c79e42d7c87623&sni=reel-tagged-army-sail.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://reel-tagged-army-sail.trycloudflare.com",
+  "host": "reel-tagged-army-sail.trycloudflare.com",
+  "uuid": "e4e54f88-ace8-49ea-8d4a-48ece1a0edb5",
+  "path": "/1a8d7175183e2b3518c79e42d7c87623",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "intended-kelkoo-refrigerator-underground.trycloudflare.com",
+  "sni": "reel-tagged-army-sail.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-26T01:51:48Z"
+  "updated_at": "2026-10-26T07:22:33Z"
 }
