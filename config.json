@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://05bab4f3-380a-41b0-be1d-e7dc00a64f04@apr-parker-yourself-happy.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=apr-parker-yourself-happy.trycloudflare.com&path=/4bceedfb72d1fb1cd64e8834a6dd6181&sni=apr-parker-yourself-happy.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://apr-parker-yourself-happy.trycloudflare.com",
-  "host": "apr-parker-yourself-happy.trycloudflare.com",
-  "uuid": "05bab4f3-380a-41b0-be1d-e7dc00a64f04",
-  "path": "/4bceedfb72d1fb1cd64e8834a6dd6181",
+  "vless_uri": "vless://b1ede583-9bb9-4c4e-93af-9c159b9367c8@michelle-neither-specialists-producers.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=michelle-neither-specialists-producers.trycloudflare.com&path=/400cd584752eba094c306afca3870279&sni=michelle-neither-specialists-producers.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://michelle-neither-specialists-producers.trycloudflare.com",
+  "host": "michelle-neither-specialists-producers.trycloudflare.com",
+  "uuid": "b1ede583-9bb9-4c4e-93af-9c159b9367c8",
+  "path": "/400cd584752eba094c306afca3870279",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "apr-parker-yourself-happy.trycloudflare.com",
+  "sni": "michelle-neither-specialists-producers.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-26T12:53:16Z"
+  "updated_at": "2026-10-26T18:23:59Z"
 }
