@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://e4e54f88-ace8-49ea-8d4a-48ece1a0edb5@reel-tagged-army-sail.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=reel-tagged-army-sail.trycloudflare.com&path=/1a8d7175183e2b3518c79e42d7c87623&sni=reel-tagged-army-sail.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://reel-tagged-army-sail.trycloudflare.com",
-  "host": "reel-tagged-army-sail.trycloudflare.com",
-  "uuid": "e4e54f88-ace8-49ea-8d4a-48ece1a0edb5",
-  "path": "/1a8d7175183e2b3518c79e42d7c87623",
+  "vless_uri": "vless://05bab4f3-380a-41b0-be1d-e7dc00a64f04@apr-parker-yourself-happy.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=apr-parker-yourself-happy.trycloudflare.com&path=/4bceedfb72d1fb1cd64e8834a6dd6181&sni=apr-parker-yourself-happy.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://apr-parker-yourself-happy.trycloudflare.com",
+  "host": "apr-parker-yourself-happy.trycloudflare.com",
+  "uuid": "05bab4f3-380a-41b0-be1d-e7dc00a64f04",
+  "path": "/4bceedfb72d1fb1cd64e8834a6dd6181",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "reel-tagged-army-sail.trycloudflare.com",
+  "sni": "apr-parker-yourself-happy.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-26T07:22:33Z"
+  "updated_at": "2026-10-26T12:53:16Z"
 }
