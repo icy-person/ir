@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://42c5be06-9274-4575-80de-a26ff565b5cd@widespread-story-celebrities-camera.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=widespread-story-celebrities-camera.trycloudflare.com&path=/6e177d06052781a2f6a16285dfe5eba5&sni=widespread-story-celebrities-camera.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://widespread-story-celebrities-camera.trycloudflare.com",
-  "host": "widespread-story-celebrities-camera.trycloudflare.com",
-  "uuid": "42c5be06-9274-4575-80de-a26ff565b5cd",
-  "path": "/6e177d06052781a2f6a16285dfe5eba5",
+  "vless_uri": "vless://62045514-7b26-4ae9-a9ad-1fd4f52a5ee5@intended-kelkoo-refrigerator-underground.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=intended-kelkoo-refrigerator-underground.trycloudflare.com&path=/f01cdd918802daffdf090bc46c48a209&sni=intended-kelkoo-refrigerator-underground.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://intended-kelkoo-refrigerator-underground.trycloudflare.com",
+  "host": "intended-kelkoo-refrigerator-underground.trycloudflare.com",
+  "uuid": "62045514-7b26-4ae9-a9ad-1fd4f52a5ee5",
+  "path": "/f01cdd918802daffdf090bc46c48a209",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "widespread-story-celebrities-camera.trycloudflare.com",
+  "sni": "intended-kelkoo-refrigerator-underground.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-25T20:21:00Z"
+  "updated_at": "2026-10-26T01:51:48Z"
 }
