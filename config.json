@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://eed6e723-c43d-49a2-89c8-4f27dca68563@tongue-companion-computation-constant.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tongue-companion-computation-constant.trycloudflare.com&path=/e7dd498084175515c568771999be8b43&sni=tongue-companion-computation-constant.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://tongue-companion-computation-constant.trycloudflare.com",
-  "host": "tongue-companion-computation-constant.trycloudflare.com",
-  "uuid": "eed6e723-c43d-49a2-89c8-4f27dca68563",
-  "path": "/e7dd498084175515c568771999be8b43",
+  "vless_uri": "vless://f2b36cb1-35a9-4937-ba24-d194e7476125@pop-fewer-chubby-identifies.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=pop-fewer-chubby-identifies.trycloudflare.com&path=/c8ca4bdbbd50eae0fb1bfcb99f7413f1&sni=pop-fewer-chubby-identifies.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://pop-fewer-chubby-identifies.trycloudflare.com",
+  "host": "pop-fewer-chubby-identifies.trycloudflare.com",
+  "uuid": "f2b36cb1-35a9-4937-ba24-d194e7476125",
+  "path": "/c8ca4bdbbd50eae0fb1bfcb99f7413f1",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "tongue-companion-computation-constant.trycloudflare.com",
+  "sni": "pop-fewer-chubby-identifies.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-27T10:56:23Z"
+  "updated_at": "2026-10-27T16:27:16Z"
 }
