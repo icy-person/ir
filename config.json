@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://f2b36cb1-35a9-4937-ba24-d194e7476125@pop-fewer-chubby-identifies.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=pop-fewer-chubby-identifies.trycloudflare.com&path=/c8ca4bdbbd50eae0fb1bfcb99f7413f1&sni=pop-fewer-chubby-identifies.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://pop-fewer-chubby-identifies.trycloudflare.com",
-  "host": "pop-fewer-chubby-identifies.trycloudflare.com",
-  "uuid": "f2b36cb1-35a9-4937-ba24-d194e7476125",
-  "path": "/c8ca4bdbbd50eae0fb1bfcb99f7413f1",
+  "vless_uri": "vless://5e93403b-661e-455f-b608-0a9b29b0981e@composition-itunes-author-consumer.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=composition-itunes-author-consumer.trycloudflare.com&path=/e8df0c70706f9a6e7a55952d4ae43be1&sni=composition-itunes-author-consumer.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://composition-itunes-author-consumer.trycloudflare.com",
+  "host": "composition-itunes-author-consumer.trycloudflare.com",
+  "uuid": "5e93403b-661e-455f-b608-0a9b29b0981e",
+  "path": "/e8df0c70706f9a6e7a55952d4ae43be1",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "pop-fewer-chubby-identifies.trycloudflare.com",
+  "sni": "composition-itunes-author-consumer.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-27T16:27:16Z"
+  "updated_at": "2026-10-27T21:58:01Z"
 }
