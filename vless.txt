@@ -1,1 +1,1 @@
-vless://29c5aa2e-3a40-4954-b52f-3e3a30276662@carey-liver-nine-assignment.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=carey-liver-nine-assignment.trycloudflare.com&path=/365df6350cd29269cd2ba79af05b2e6a&sni=carey-liver-nine-assignment.trycloudflare.com#GitHub-Xray
+vless://3497c8c1-58fb-4574-b40d-eae0125ab861@blast-findarticles-mom-dolls.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=blast-findarticles-mom-dolls.trycloudflare.com&path=/4d668b49bd7ff2f254429921b2334c9b&sni=blast-findarticles-mom-dolls.trycloudflare.com#GitHub-Xray
