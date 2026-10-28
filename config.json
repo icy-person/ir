@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://5e93403b-661e-455f-b608-0a9b29b0981e@composition-itunes-author-consumer.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=composition-itunes-author-consumer.trycloudflare.com&path=/e8df0c70706f9a6e7a55952d4ae43be1&sni=composition-itunes-author-consumer.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://composition-itunes-author-consumer.trycloudflare.com",
-  "host": "composition-itunes-author-consumer.trycloudflare.com",
-  "uuid": "5e93403b-661e-455f-b608-0a9b29b0981e",
-  "path": "/e8df0c70706f9a6e7a55952d4ae43be1",
+  "vless_uri": "vless://1b37a138-a2b5-48b0-b001-a09d92212367@temporal-substances-networking-bug.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=temporal-substances-networking-bug.trycloudflare.com&path=/b5478814b6682b01f94ab67f183c8200&sni=temporal-substances-networking-bug.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://temporal-substances-networking-bug.trycloudflare.com",
+  "host": "temporal-substances-networking-bug.trycloudflare.com",
+  "uuid": "1b37a138-a2b5-48b0-b001-a09d92212367",
+  "path": "/b5478814b6682b01f94ab67f183c8200",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "composition-itunes-author-consumer.trycloudflare.com",
+  "sni": "temporal-substances-networking-bug.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-27T21:58:01Z"
+  "updated_at": "2026-10-28T03:28:48Z"
 }
