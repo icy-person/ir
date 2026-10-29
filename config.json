@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://722d8c80-436f-47b4-8ab1-b0423d4ceecd@call-neural-winners-favor.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=call-neural-winners-favor.trycloudflare.com&path=/6af772563028b9bfe5007b9e4bfdd514&sni=call-neural-winners-favor.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://call-neural-winners-favor.trycloudflare.com",
-  "host": "call-neural-winners-favor.trycloudflare.com",
-  "uuid": "722d8c80-436f-47b4-8ab1-b0423d4ceecd",
-  "path": "/6af772563028b9bfe5007b9e4bfdd514",
+  "vless_uri": "vless://60f7a64f-6d8e-43ef-96ab-a78649f15048@air-missed-flat-ranks.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=air-missed-flat-ranks.trycloudflare.com&path=/4a6caec2954396c292bc6bc2808ef7b4&sni=air-missed-flat-ranks.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://air-missed-flat-ranks.trycloudflare.com",
+  "host": "air-missed-flat-ranks.trycloudflare.com",
+  "uuid": "60f7a64f-6d8e-43ef-96ab-a78649f15048",
+  "path": "/4a6caec2954396c292bc6bc2808ef7b4",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "call-neural-winners-favor.trycloudflare.com",
+  "sni": "air-missed-flat-ranks.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-29T18:03:41Z"
+  "updated_at": "2026-10-29T23:34:20Z"
 }
