@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://42c4c50c-c278-4d8f-8b1a-33af56862809@walker-encoding-parameter-yea.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=walker-encoding-parameter-yea.trycloudflare.com&path=/615d6135eac8f2d59aac21a252bb83ef&sni=walker-encoding-parameter-yea.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://walker-encoding-parameter-yea.trycloudflare.com",
-  "host": "walker-encoding-parameter-yea.trycloudflare.com",
-  "uuid": "42c4c50c-c278-4d8f-8b1a-33af56862809",
-  "path": "/615d6135eac8f2d59aac21a252bb83ef",
+  "vless_uri": "vless://1db6584e-0fcb-498c-8318-6d237ed69c5c@mixer-numbers-pads-commonly.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=mixer-numbers-pads-commonly.trycloudflare.com&path=/728da0d1dc17511669c094f85dbee156&sni=mixer-numbers-pads-commonly.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://mixer-numbers-pads-commonly.trycloudflare.com",
+  "host": "mixer-numbers-pads-commonly.trycloudflare.com",
+  "uuid": "1db6584e-0fcb-498c-8318-6d237ed69c5c",
+  "path": "/728da0d1dc17511669c094f85dbee156",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "walker-encoding-parameter-yea.trycloudflare.com",
+  "sni": "mixer-numbers-pads-commonly.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-29T07:02:20Z"
+  "updated_at": "2026-10-29T12:33:01Z"
 }
