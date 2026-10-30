@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://60f7a64f-6d8e-43ef-96ab-a78649f15048@air-missed-flat-ranks.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=air-missed-flat-ranks.trycloudflare.com&path=/4a6caec2954396c292bc6bc2808ef7b4&sni=air-missed-flat-ranks.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://air-missed-flat-ranks.trycloudflare.com",
-  "host": "air-missed-flat-ranks.trycloudflare.com",
-  "uuid": "60f7a64f-6d8e-43ef-96ab-a78649f15048",
-  "path": "/4a6caec2954396c292bc6bc2808ef7b4",
+  "vless_uri": "vless://248ed9bf-95ce-44c3-bede-e9ad62c7ea9b@subcommittee-definitions-ecommerce-successful.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=subcommittee-definitions-ecommerce-successful.trycloudflare.com&path=/60374b6d58eeca1cdd3b4d325b974e12&sni=subcommittee-definitions-ecommerce-successful.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://subcommittee-definitions-ecommerce-successful.trycloudflare.com",
+  "host": "subcommittee-definitions-ecommerce-successful.trycloudflare.com",
+  "uuid": "248ed9bf-95ce-44c3-bede-e9ad62c7ea9b",
+  "path": "/60374b6d58eeca1cdd3b4d325b974e12",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "air-missed-flat-ranks.trycloudflare.com",
+  "sni": "subcommittee-definitions-ecommerce-successful.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-29T23:34:20Z"
+  "updated_at": "2026-10-30T05:05:04Z"
 }
