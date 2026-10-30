@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://2ac19e14-2f8f-4646-b47a-5221eae05efa@attempting-broken-interaction-assumes.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=attempting-broken-interaction-assumes.trycloudflare.com&path=/96a3a67684f92d88aa8d86aa9019087d&sni=attempting-broken-interaction-assumes.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://attempting-broken-interaction-assumes.trycloudflare.com",
-  "host": "attempting-broken-interaction-assumes.trycloudflare.com",
-  "uuid": "2ac19e14-2f8f-4646-b47a-5221eae05efa",
-  "path": "/96a3a67684f92d88aa8d86aa9019087d",
+  "vless_uri": "vless://a792124d-1c10-4a2c-9e1d-ab4215b8d2ca@niagara-island-orange-restrict.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=niagara-island-orange-restrict.trycloudflare.com&path=/0f19fe6a13f042cf70682b72b0faea8c&sni=niagara-island-orange-restrict.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://niagara-island-orange-restrict.trycloudflare.com",
+  "host": "niagara-island-orange-restrict.trycloudflare.com",
+  "uuid": "a792124d-1c10-4a2c-9e1d-ab4215b8d2ca",
+  "path": "/0f19fe6a13f042cf70682b72b0faea8c",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "attempting-broken-interaction-assumes.trycloudflare.com",
+  "sni": "niagara-island-orange-restrict.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-30T10:35:44Z"
+  "updated_at": "2026-10-30T16:06:26Z"
 }
