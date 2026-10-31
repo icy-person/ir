@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://f51e8d89-317c-4b0f-8662-3392850d9901@represents-stroke-shared-participated.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=represents-stroke-shared-participated.trycloudflare.com&path=/b6e95088f6374496ccde1f0042f11e87&sni=represents-stroke-shared-participated.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://represents-stroke-shared-participated.trycloudflare.com",
-  "host": "represents-stroke-shared-participated.trycloudflare.com",
-  "uuid": "f51e8d89-317c-4b0f-8662-3392850d9901",
-  "path": "/b6e95088f6374496ccde1f0042f11e87",
+  "vless_uri": "vless://3d522b94-5ac1-4bb7-88c5-0745839316a2@britannica-publish-land-beds.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=britannica-publish-land-beds.trycloudflare.com&path=/8fdc014b219a4b5a113fffb299d70705&sni=britannica-publish-land-beds.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://britannica-publish-land-beds.trycloudflare.com",
+  "host": "britannica-publish-land-beds.trycloudflare.com",
+  "uuid": "3d522b94-5ac1-4bb7-88c5-0745839316a2",
+  "path": "/8fdc014b219a4b5a113fffb299d70705",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "represents-stroke-shared-participated.trycloudflare.com",
+  "sni": "britannica-publish-land-beds.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-30T21:37:05Z"
+  "updated_at": "2026-10-31T03:07:51Z"
 }
